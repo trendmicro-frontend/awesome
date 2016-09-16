@@ -222,6 +222,7 @@ A curated list of awesome frontend development resources
 - [html5-tag](https://github.com/cheton/html5-tag) - A simple utility for creating HTML5 tags.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
+- [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses).
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
