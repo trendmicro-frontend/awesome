@@ -132,6 +132,9 @@ A curated list of awesome frontend development resources
 ## Mail
 - [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
+## P2P
+- [webtorrent](https://github.com/feross/webtorrent) - ⚡ Streaming torrent client for the web.
+
 ## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 - [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
