@@ -163,6 +163,7 @@ A curated list of awesome frontend development resources
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
+- [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
 - [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
 - [redux-auth](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
