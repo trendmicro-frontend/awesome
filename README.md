@@ -145,6 +145,7 @@ A curated list of awesome frontend development resources
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [react-addons-css-transition-group](https://facebook.github.io/react/docs/animation.html) - A ReactTransitionGroup add-on component as a low-level API for animation, and a ReactCSSTransitionGroup for easily implementing basic CSS animations and transitions.
 - [react-addons-pure-render-mixin](https://facebook.github.io/react/docs/pure-render-mixin.html) - A performance booster under certain situations.
 - [react-addons-shallow-compare](https://facebook.github.io/react/docs/shallow-compare.html) - A helper function to achieve the same functionality as PureRenderMixin while using ES6 classes with React.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
