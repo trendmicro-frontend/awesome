@@ -224,6 +224,7 @@ A curated list of awesome frontend development resources
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses).
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
+- [pretty-format](https://github.com/thejameskyle/pretty-format) - ✨ Stringify any JavaScript value.
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
