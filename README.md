@@ -133,6 +133,7 @@ A curated list of awesome frontend development resources
 - [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
 ## P2P
+- [p2p-graph](https://github.com/feross/p2p-graph) - Real-time P2P network visualization with D3.
 - [webtorrent](https://github.com/feross/webtorrent) - ⚡ Streaming torrent client for the web.
 
 ## Presentation
