@@ -136,6 +136,12 @@ A curated list of awesome frontend development resources
 - [p2p-graph](https://github.com/feross/p2p-graph) - Real-time P2P network visualization with D3.
 - [webtorrent](https://github.com/feross/webtorrent) - ⚡ Streaming torrent client for the web.
 
+## Polyfill
+- [es5-shim](https://github.com/es-shims/es5-shim) - ECMAScript 5 compatibility shims for legacy (and modern) JavaScript engines.
+- [es6-shim](https://github.com/paulmillr/es6-shim) - ECMAScript 6 compatibility shims for legacy JavaScript engines.
+- [es7-shim](https://github.com/es-shims/es7-shim) - ECMAScript 7 compatibility shims for legacy JavaScript engines.
+- [polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More.
+
 ## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 - [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
