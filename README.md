@@ -109,7 +109,6 @@ A curated list of awesome frontend development resources
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
 ## HTTP
-- [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to node.js and io.js.
 - [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for node.js
 - [request](https://github.com/request/request) - Simplified HTTP request client.
@@ -140,6 +139,7 @@ A curated list of awesome frontend development resources
 - [es5-shim](https://github.com/es-shims/es5-shim) - ECMAScript 5 compatibility shims for legacy (and modern) JavaScript engines.
 - [es6-shim](https://github.com/paulmillr/es6-shim) - ECMAScript 6 compatibility shims for legacy JavaScript engines.
 - [es7-shim](https://github.com/es-shims/es7-shim) - ECMAScript 7 compatibility shims for legacy JavaScript engines.
+- [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More.
 
 ## Presentation
