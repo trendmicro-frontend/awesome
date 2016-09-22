@@ -189,7 +189,7 @@ A curated list of awesome frontend development resources
 - [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
 
 ## Testing
-- [BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
+- [BackstopJS](https://github.com/garris/BackstopJS) - Automates CSS regression testing of your responsive web UI by comparing DOM screenshots at various viewport sizes.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
 - [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
