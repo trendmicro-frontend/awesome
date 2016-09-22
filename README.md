@@ -156,6 +156,7 @@ A curated list of awesome frontend development resources
 - [react-addons-css-transition-group](https://facebook.github.io/react/docs/animation.html) - A ReactTransitionGroup add-on component as a low-level API for animation, and a ReactCSSTransitionGroup for easily implementing basic CSS animations and transitions.
 - [react-addons-pure-render-mixin](https://facebook.github.io/react/docs/pure-render-mixin.html) - A performance booster under certain situations.
 - [react-addons-shallow-compare](https://facebook.github.io/react/docs/shallow-compare.html) - A helper function to achieve the same functionality as PureRenderMixin while using ES6 classes with React.
+- [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 - [react-color](https://github.com/casesandberg/react-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
 - [react-dates](https://github.com/airbnb/react-dates) - An accessible, easily internationalizable, mobile-friendly datepicker library for the web.
