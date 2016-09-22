@@ -150,6 +150,7 @@ A curated list of awesome frontend development resources
 - [react-addons-pure-render-mixin](https://facebook.github.io/react/docs/pure-render-mixin.html) - A performance booster under certain situations.
 - [react-addons-shallow-compare](https://facebook.github.io/react/docs/shallow-compare.html) - A helper function to achieve the same functionality as PureRenderMixin while using ES6 classes with React.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
+- [react-color](https://github.com/casesandberg/react-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
 - [react-dates](https://github.com/airbnb/react-dates) - An accessible, easily internationalizable, mobile-friendly datepicker library for the web.
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
