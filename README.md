@@ -166,6 +166,7 @@ A curated list of awesome frontend development resources
 - [react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers.
 - [react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+- [react-hi-text](https://github.com/rwu823/react-hi-text) - React text highlight component.
 - [react-hotkeys](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React.
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
@@ -176,6 +177,7 @@ A curated list of awesome frontend development resources
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
+- [react-selection](https://github.com/rwu823/react-selection) - Like the normal OS selection.
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
