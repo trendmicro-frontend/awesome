@@ -243,6 +243,7 @@ A curated list of awesome frontend development resources
 - [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
+- [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators.
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
