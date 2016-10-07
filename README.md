@@ -136,6 +136,7 @@ A curated list of awesome frontend development resources
 - [webtorrent](https://github.com/feross/webtorrent) - ⚡ Streaming torrent client for the web.
 
 ## Polyfill
+- [babel-polyfill](https://github.com/babel/babel/tree/master/packages/babel-polyfill) - Provides polyfills necessary for a full ES2015+ environment.
 - [es5-shim](https://github.com/es-shims/es5-shim) - ECMAScript 5 compatibility shims for legacy (and modern) JavaScript engines.
 - [es6-shim](https://github.com/paulmillr/es6-shim) - ECMAScript 6 compatibility shims for legacy JavaScript engines.
 - [es6-symbol](https://github.com/medikoo/es6-symbol) - ECMAScript 6 Symbol polyfill.
