@@ -142,6 +142,7 @@ A curated list of awesome frontend development resources
 - [es7-shim](https://github.com/es-shims/es7-shim) - ECMAScript 7 compatibility shims for legacy JavaScript engines.
 - [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More.
+- [webvr-polyfill](https://github.com/borismus/webvr-polyfill) - Use WebVR today, without requiring a special browser build.
 
 ## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
