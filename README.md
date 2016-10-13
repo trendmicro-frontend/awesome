@@ -216,6 +216,7 @@ A curated list of awesome frontend development resources
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation.
 - [visual-center](https://github.com/javierbyte/visual-center) - This is a tool that will find the visual center of your images.
+- [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
 
 ## Touch Screen
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
