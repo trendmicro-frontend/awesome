@@ -23,6 +23,11 @@ A curated list of awesome frontend development resources
 - [passport](http://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [passport-saml](https://github.com/bergie/passport-saml) - SAML 2.0 authentication with Passport.
 
+## Json Web Token (JWT)
+- [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes.
+- [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js.
+- [socketio-jwt](https://github.com/auth0/socketio-jwt) - Authenticate socket.io incoming connections with JWTs.
+
 ## Automation
 - [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.
 
@@ -148,12 +153,14 @@ A curated list of awesome frontend development resources
 ## Presentation
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 - [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
+- [spectacle-boilerplate](https://github.com/FormidableLabs/spectacle-boilerplate) - Boilerplate project for getting started with Spectacle Core.
 - [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide) - :metal: Present code with style.
 - [spectacle-editor](https://github.com/FormidableLabs/spectacle-editor) - Drag and drop Spectacle editor.
 
 ## React
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
+- [qrcode.react](https://github.com/zpao/qrcode.react) - A <QRCode/> component for use with React.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-addons-css-transition-group](https://facebook.github.io/react/docs/animation.html) - A ReactTransitionGroup add-on component as a low-level API for animation, and a ReactCSSTransitionGroup for easily implementing basic CSS animations and transitions.
 - [react-addons-pure-render-mixin](https://facebook.github.io/react/docs/pure-render-mixin.html) - A performance booster under certain situations.
@@ -191,6 +198,9 @@ A curated list of awesome frontend development resources
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
+
+## React Native
+- [react-native-windows](https://github.com/ReactWindows/react-native-windows) - A framework for building native apps with React.
 
 ## Real-time
 - [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
