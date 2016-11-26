@@ -23,11 +23,6 @@ A curated list of awesome frontend development resources
 - [passport](http://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [passport-saml](https://github.com/bergie/passport-saml) - SAML 2.0 authentication with Passport.
 
-## Json Web Token (JWT)
-- [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes.
-- [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js.
-- [socketio-jwt](https://github.com/auth0/socketio-jwt) - Authenticate socket.io incoming connections with JWTs.
-
 ## Automation
 - [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.
 
@@ -134,6 +129,11 @@ A curated list of awesome frontend development resources
 - [node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport) - Node.js package to access serial ports for reading and writing OR Welcome your robotic JavaScript overlords.
 - [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
 
+## Json Web Token (JWT)
+- [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes.
+- [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js.
+- [socketio-jwt](https://github.com/auth0/socketio-jwt) - Authenticate socket.io incoming connections with JWTs.
+
 ## Mail
 - [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
@@ -206,6 +206,9 @@ A curated list of awesome frontend development resources
 
 ## Real-time
 - [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
+
+## Serverless
+- [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 
 ## Testing
 - [BackstopJS](https://github.com/garris/BackstopJS) - Automates CSS regression testing of your responsive web UI by comparing DOM screenshots at various viewport sizes.
