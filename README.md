@@ -14,6 +14,7 @@ A curated list of awesome frontend development resources
 - [awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) - A curated list of resources for teaching kids programming.
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares.
+- [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js.
 
 ## Algorithms
 - [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - Algorithm Visualizer.
