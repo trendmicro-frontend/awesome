@@ -64,6 +64,7 @@ A curated list of awesome frontend development resources
 - [css-modules](https://github.com/css-modules/css-modules) - A CSS file in which all class names and animation names are scoped locally by default.
 - [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations.
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
+- [styled-components](https://github.com/styled-components/styled-components) - Comparing different ways to style components.
 
 ## CSS Preprocessor
 - [Less](https://github.com/less/less.js) - Leaner CSS.
