@@ -1,6 +1,20 @@
 # Awesome Frontend Development Resources
 A curated list of awesome frontend development resources
 
+## Trend Micro
+
+### Linter
+- [eslint-config-trendmicro](https://github.com/trendmicro-frontend/eslint-config-trendmicro) - This package provides .eslintrc as an extensible shared config.
+
+### Components
+- [react-component-template](https://github.com/trendmicro-frontend/react-component-template) - Trend Micro Components: React Component Template.
+- [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - Trend Micro Components: React Anchor.
+- [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - Trend Micro Components: React Breadcrumbs.
+- [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - Trend Micro Components: React Buttons.
+- [react-modal](https://github.com/trendmicro-frontend/react-modal) - Trend Micro Components: React Modal.
+
+<hr>
+
 ## Ask Me Anything
 - https://github.com/sindresorhus/ama
 - https://github.com/kentcdodds/ama
@@ -186,6 +200,7 @@ A curated list of awesome frontend development resources
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
+- [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
