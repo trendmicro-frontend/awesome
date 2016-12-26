@@ -12,6 +12,7 @@ A curated list of awesome frontend development resources
 - [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - Trend Micro Components: React Breadcrumbs.
 - [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - Trend Micro Components: React Buttons.
 - [react-modal](https://github.com/trendmicro-frontend/react-modal) - Trend Micro Components: React Modal.
+- [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - Trend Micro Components: React Paginations.
 
 <hr>
 
