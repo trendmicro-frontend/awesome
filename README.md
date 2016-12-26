@@ -16,8 +16,6 @@ A curated list of awesome frontend development resources
 - [react-modal](https://github.com/trendmicro-frontend/react-modal) - Trend Micro Components: React Modal.
 - [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - Trend Micro Components: React Paginations.
 
-<hr>
-
 ## Ask Me Anything
 - https://github.com/sindresorhus/ama
 - https://github.com/kentcdodds/ama
@@ -291,6 +289,7 @@ A curated list of awesome frontend development resources
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
+- [zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense. http://desmonding.me/zooming/
 
 ## Video
 - [jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript.
