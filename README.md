@@ -6,8 +6,10 @@ A curated list of awesome frontend development resources
 ### Linter
 - [eslint-config-trendmicro](https://github.com/trendmicro-frontend/eslint-config-trendmicro) - This package provides .eslintrc as an extensible shared config.
 
-### Components
+### Generator
 - [react-component-template](https://github.com/trendmicro-frontend/react-component-template) - Trend Micro Components: React Component Template.
+
+### React Components
 - [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - Trend Micro Components: React Anchor.
 - [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - Trend Micro Components: React Breadcrumbs.
 - [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - Trend Micro Components: React Buttons.
