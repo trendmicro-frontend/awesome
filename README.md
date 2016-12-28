@@ -234,6 +234,7 @@ A curated list of awesome frontend development resources
 - [slider](https://github.com/react-component/slider) - React Slider.
 - [table](https://github.com/react-component/table) - React Table.
 - [tabs](https://github.com/react-component/tabs) - React Tabs.
+- [tree](https://github.com/react-component/tree) - React Tree.
 - [tooltip](https://github.com/react-component/tooltip) - React Tooltip.
 
 ## React Native
