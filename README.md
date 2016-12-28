@@ -179,6 +179,18 @@ A curated list of awesome frontend development resources
 - [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide) - :metal: Present code with style.
 - [spectacle-editor](https://github.com/FormidableLabs/spectacle-editor) - Drag and drop Spectacle editor.
 
+## React Component (https://github.com/react-component)
+- [calendar](https://github.com/react-component/calendar) - React Calendar.
+- [color-picker](https://github.com/react-component/color-picker) - React ColorPicker.
+- [pager](https://github.com/react-component/pager) - React Pager.
+- [progress](https://github.com/react-component/progress) - React Progress Bar.
+- [rate](https://github.com/react-component/rate) - React Rate.
+- [select](https://github.com/react-component/select) - React Select.
+- [slider](https://github.com/react-component/slider) - React Slider.
+- [table](https://github.com/react-component/table) - React Table.
+- [tabs](https://github.com/react-component/tabs) - React Tabs.
+- [tooltip](https://github.com/react-component/tooltip) - React Tooltip.
+
 ## React
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
