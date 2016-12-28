@@ -252,6 +252,7 @@ A curated list of awesome frontend development resources
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
 - [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
+- [leakage](https://github.com/andywer/leakage) - 🐛 Memory leak testing for node.
 - [mocha](https://github.com/mochajs/mocha) - A simple, flexible, fun JavaScript test framework for node.js and the browser.
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library. http://nightmarejs.org
 - [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
