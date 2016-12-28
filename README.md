@@ -58,6 +58,7 @@ A curated list of awesome frontend development resources
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Node.js tool for easy binary deployment of C++ addons.
 - [parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel.
 - [webpack](https://github.com/webpack/webpack) - A module bundler that bundles JavaScript and other assets for the browser.
+- [webpack-blocks](https://github.com/andywer/webpack-blocks) - 📦 Configure webpack using functional feature blocks.
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server.
 
 ## Command-line Utilities
@@ -303,6 +304,7 @@ A curated list of awesome frontend development resources
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators.
+- [threads.js](https://github.com/andywer/threads.js) - Easy to use, yet powerful multi-threading library for node.js and the browser.
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
