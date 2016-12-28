@@ -299,6 +299,7 @@ A curated list of awesome frontend development resources
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
 - [multiline-template](https://github.com/jayphelps/multiline-template) - Multiline tagged templates using a pipe |, followed by a space, to signal line start, no more crazy indent hacks.
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses).
+- [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
 - [pretty-format](https://github.com/thejameskyle/pretty-format) - ✨ Stringify any JavaScript value.
