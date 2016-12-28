@@ -123,10 +123,13 @@ A curated list of awesome frontend development resources
 - [gamepad](https://github.com/w3c/gamepad) - Gamepad specification.
 
 ## Graphics
-- [chartjs](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
+- [chartjs](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [obelisk.js](https://github.com/nosir/obelisk.js) - JavaScript library for building pixel isometric graphics with HTML5 canvas.
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+
+## Grid
+- [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 
 ## HTTP
 - [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to node.js and io.js.
