@@ -65,6 +65,7 @@ A curated list of awesome frontend development resources
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 - [cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.js.
 - [commander.js](https://github.com/tj/commander.js/) - Node.js command-line interfaces made easy.
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [node-progress](https://github.com/tj/node-progress) - Flexible ascii progress bar for nodejs.
 
 ## Computer Vision
