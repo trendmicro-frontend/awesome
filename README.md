@@ -67,6 +67,7 @@ A curated list of awesome frontend development resources
 - [commander.js](https://github.com/tj/commander.js/) - Node.js command-line interfaces made easy.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [node-progress](https://github.com/tj/node-progress) - Flexible ascii progress bar for nodejs.
+- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js.
 
 ## Computer Vision
 - [node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js.
