@@ -164,6 +164,10 @@ A curated list of awesome frontend development resources
 ## Mail
 - [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
+## Notifications
+- [notify.js](https://github.com/alexgibson/notify.js) - A handy wrapper for the Web Notifications API.
+- [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
+
 ## P2P
 - [p2p-graph](https://github.com/feross/p2p-graph) - Real-time P2P network visualization with D3.
 - [webtorrent](https://github.com/feross/webtorrent) - ⚡ Streaming torrent client for the web.
@@ -309,7 +313,6 @@ A curated list of awesome frontend development resources
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
 - [pretty-format](https://github.com/thejameskyle/pretty-format) - ✨ Stringify any JavaScript value.
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
-- [push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for Javascript desktop notifications.
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators.
