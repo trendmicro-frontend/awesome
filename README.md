@@ -316,6 +316,7 @@ A curated list of awesome frontend development resources
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
+- [table](https://github.com/gajus/table) - Formats data into a string table.
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators.
 - [threads.js](https://github.com/andywer/threads.js) - Easy to use, yet powerful multi-threading library for node.js and the browser.
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
