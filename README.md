@@ -258,6 +258,12 @@ A curated list of awesome frontend development resources
 ## Serverless
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 
+## Static Site Generator
+- [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
+- [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
+- [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter.
+- [gatsby-starter-documentation](https://github.com/gatsbyjs/gatsby-starter-documentation) - Starter for building documentation site with GatsbyJS.
+
 ## Testing
 - [BackstopJS](https://github.com/garris/BackstopJS) - Automates CSS regression testing of your responsive web UI by comparing DOM screenshots at various viewport sizes.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
