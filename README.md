@@ -191,6 +191,7 @@ A curated list of awesome frontend development resources
 - [spectacle-editor](https://github.com/FormidableLabs/spectacle-editor) - Drag and drop Spectacle editor.
 
 ## React
+- [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A <QRCode/> component for use with React.
