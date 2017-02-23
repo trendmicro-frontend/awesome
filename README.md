@@ -13,8 +13,14 @@ A curated list of awesome frontend development resources
 - [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - Trend Micro Components: React Anchor.
 - [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - Trend Micro Components: React Breadcrumbs.
 - [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - Trend Micro Components: React Buttons.
+- [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - Trend Micro Components: React Dropdown.
+- [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields.
+- [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
+- [react-loader](https://github.com/trendmicro-frontend/react-loader) - Trend Micro Components: React Loader.
 - [react-modal](https://github.com/trendmicro-frontend/react-modal) - Trend Micro Components: React Modal.
+- [react-navs](https://github.com/trendmicro-frontend/react-navs) - Trend Micro Components: React Navs.
 - [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - Trend Micro Components: React Paginations.
+- [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - Trend Micro Components: React Toggle Switch.
 
 ## Ask Me Anything
 - https://github.com/sindresorhus/ama
