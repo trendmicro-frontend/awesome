@@ -3,6 +3,9 @@ A curated list of awesome frontend development resources
 
 ## Trend Micro
 
+### Styles
+- [trendmicro-ui](https://github.com/trendmicro-frontend/trendmicro-ui) - CSS styles for creating a user interface according to Trend Micro UI style guides.
+
 ### Linter
 - [eslint-config-trendmicro](https://github.com/trendmicro-frontend/eslint-config-trendmicro) - This package provides .eslintrc as an extensible shared config.
 
