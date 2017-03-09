@@ -355,6 +355,9 @@ A curated list of awesome frontend development resources
 ## Virtual Reality
 - [aframe](https://github.com/aframevr/aframe) - Building Blocks for the VR Web.
 
+## Web Sockets
+- [localcast](https://github.com/mafintosh/localcast) - A shared event emitter that works across multiple processes on the same machine, including the browser!
+
 ## Web Frameworks
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [koa](http://koajs.com/) - Next generation web framework for Node.js.
