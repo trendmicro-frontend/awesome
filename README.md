@@ -339,6 +339,7 @@ A curated list of awesome frontend development resources
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
 - [table](https://github.com/gajus/table) - Formats data into a string table.
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators.
+- [text-width](https://github.com/kapetan/text-width) - Measure the text width in browsers.
 - [threads.js](https://github.com/andywer/threads.js) - Easy to use, yet powerful multi-threading library for node.js and the browser.
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
