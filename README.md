@@ -233,6 +233,7 @@ A curated list of awesome frontend development resources
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
 - [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
+- [react-loadable](https://github.com/thejameskyle/react-loadable) - A higher order component for loading components with promises.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
