@@ -143,7 +143,8 @@ A curated list of awesome frontend development resources
 - [chartjs](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [obelisk.js](https://github.com/nosir/obelisk.js) - JavaScript library for building pixel isometric graphics with HTML5 canvas.
-- [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+- [sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
 ## Grid
 - [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
