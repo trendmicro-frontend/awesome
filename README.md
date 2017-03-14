@@ -130,6 +130,7 @@ A curated list of awesome frontend development resources
 - [dom-select](https://github.com/npm-dom/dom-select) - Select DOM.
 - [dom-style](https://github.com/npm-dom/dom-style) - Library to manipulate CSS properties.
 - [dom-value](https://github.com/npm-dom/dom-value) - Get / set form input values.
+- [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas.
 - [in-view](https://github.com/camwiegert/in-view) - Get notified when a DOM element enters or exits the viewport.
 - [is-dom](https://github.com/npm-dom/is-dom) - Check if the given object is a dom node.
 - [jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js.
@@ -320,6 +321,7 @@ A curated list of awesome frontend development resources
 
 ## Utilities
 - [array-lru](https://github.com/mafintosh/array-lru) - A really fast LRU cache for array items (numeric keys).
+- [chained-function](https://github.com/cheton/chained-function) - Chained function calls.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
