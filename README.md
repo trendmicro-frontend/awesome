@@ -286,6 +286,9 @@ A curated list of awesome frontend development resources
 - [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter.
 - [gatsby-starter-documentation](https://github.com/gatsbyjs/gatsby-starter-documentation) - Starter for building documentation site with GatsbyJS.
 
+## Store
+- [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases • Used across the web • See below for v2.0 news!
+
 ## Testing
 - [BackstopJS](https://github.com/garris/BackstopJS) - Automates CSS regression testing of your responsive web UI by comparing DOM screenshots at various viewport sizes.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
