@@ -311,6 +311,7 @@ A curated list of awesome frontend development resources
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions.
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+- [pv](https://github.com/juliangruber/node-pv) - A node.js implementation of the Pipe Viewer utility, useful for inspecting a pipe's traffic.
 - [statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation.
 - [visual-center](https://github.com/javierbyte/visual-center) - This is a tool that will find the visual center of your images.
 - [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
