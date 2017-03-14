@@ -206,6 +206,10 @@ A curated list of awesome frontend development resources
 - [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide) - :metal: Present code with style.
 - [spectacle-editor](https://github.com/FormidableLabs/spectacle-editor) - Drag and drop Spectacle editor.
 
+## Productivity
+- [pre-commit](https://github.com/observing/pre-commit) - Automatically installs a git pre-commit script in your git repository which runs your `npm test` on pre-commit.
+- [pre-push](https://github.com/dflourusso/pre-push) - Adiciona hook para pre-push do git.
+
 ## React
 - [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
