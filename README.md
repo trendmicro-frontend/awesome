@@ -36,6 +36,7 @@ A curated list of awesome frontend development resources
 
 ## Awesome
 - [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - 🎨 Creative Coding, Generative Art, Interaction Design, Resources.
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
