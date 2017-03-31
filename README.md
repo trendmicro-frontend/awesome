@@ -77,6 +77,7 @@ A curated list of awesome frontend development resources
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server.
 
 ## Command-line Utilities
+- [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 - [cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.js.
 - [commander.js](https://github.com/tj/commander.js/) - Node.js command-line interfaces made easy.
@@ -225,6 +226,7 @@ A curated list of awesome frontend development resources
 - [react-addons-shallow-compare](https://facebook.github.io/react/docs/shallow-compare.html) - A helper function to achieve the same functionality as PureRenderMixin while using ES6 classes with React.
 - [react-angular](https://github.com/fmauquie/react-angular) - Use AngularJS 1.x templates in react components.
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
+- [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 - [react-color](https://github.com/casesandberg/react-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
 - [react-dates](https://github.com/airbnb/react-dates) - An accessible, easily internationalizable, mobile-friendly datepicker library for the web.
