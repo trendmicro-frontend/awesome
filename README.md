@@ -342,6 +342,7 @@ A curated list of awesome frontend development resources
 - [flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
 - [glob](https://github.com/isaacs/node-glob) - glob functionality for node.js.
 - [globby](https://github.com/sindresorhus/globby) - Extends [glob](https://github.com/isaacs/node-glob) with support for multiple patterns.
+- [hashlru](https://github.com/dominictarr/hashlru) - Simpler, faster LRU cache algorithm.
 - [html5-tag](https://github.com/cheton/html5-tag) - A simple utility for creating HTML5 tags.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
