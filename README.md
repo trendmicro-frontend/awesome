@@ -25,7 +25,7 @@ A curated list of awesome frontend development resources
 - [react-loader](https://github.com/trendmicro-frontend/react-loader) - Trend Micro Components: React Loader.
 - [react-modal](https://github.com/trendmicro-frontend/react-modal) - Trend Micro Components: React Modal.
 - [react-navs](https://github.com/trendmicro-frontend/react-navs) - Trend Micro Components: React Navs.
-- [react-navbars](https://github.com/trendmicro-frontend/react-navbars) - Trend Micro Components: React Navbars.
+- [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - Trend Micro Components: React Navbar.
 - [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - Trend Micro Components: React Paginations.
 - [react-table](https://github.com/trendmicro-frontend/react-table) - Trend Micro Components: React Table.
 - [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - Trend Micro Components: React Toggle Switch.
