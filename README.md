@@ -228,6 +228,7 @@ A curated list of awesome frontend development resources
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
+- [react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts.
 - [react-color](https://github.com/casesandberg/react-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
 - [react-dates](https://github.com/airbnb/react-dates) - An accessible, easily internationalizable, mobile-friendly datepicker library for the web.
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
