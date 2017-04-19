@@ -256,6 +256,7 @@ A curated list of awesome frontend development resources
 - [react-selection](https://github.com/rwu823/react-selection) - Like the normal OS selection.
 - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
+- [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
