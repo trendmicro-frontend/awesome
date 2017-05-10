@@ -373,6 +373,8 @@ A curated list of awesome frontend development resources
 - [text-width](https://github.com/kapetan/text-width) - Measure the text width in browsers.
 - [threads.js](https://github.com/andywer/threads.js) - Easy to use, yet powerful multi-threading library for node.js and the browser.
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
+- [universal-logger](https://github.com/cheton/universal-logger) - A universal logging library for Node and the browser.
+- [universal-logger-browser](https://github.com/cheton/universal-logger-browser) - Browser plugins for universal logger.
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 - [zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense. http://desmonding.me/zooming/
