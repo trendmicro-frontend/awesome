@@ -19,6 +19,8 @@ A curated list of awesome frontend development resources
 - [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - Trend Micro Components: React Anchor.
 - [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - Trend Micro Components: React Breadcrumbs.
 - [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - Trend Micro Components: React Buttons.
+- [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - Trend Micro Components: React Checkbox.
+- [react-clusterize](https://github.com/trendmicro-frontend/react-clusterize) - React component for Clusterize.js.
 - [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - Trend Micro Components: React Dropdown.
 - [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields.
 - [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
@@ -27,6 +29,7 @@ A curated list of awesome frontend development resources
 - [react-navs](https://github.com/trendmicro-frontend/react-navs) - Trend Micro Components: React Navs.
 - [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - Trend Micro Components: React Navbar.
 - [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - Trend Micro Components: React Paginations.
+- [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - Trend Micro Components: React Radio Button.
 - [react-table](https://github.com/trendmicro-frontend/react-table) - Trend Micro Components: React Table.
 - [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - Trend Micro Components: React Toggle Switch.
 
@@ -256,6 +259,7 @@ A curated list of awesome frontend development resources
 - [react-selection](https://github.com/rwu823/react-selection) - Like the normal OS selection.
 - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
+- [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
