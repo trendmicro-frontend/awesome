@@ -219,7 +219,7 @@ A curated list of awesome frontend development resources
 - [pre-push](https://github.com/dflourusso/pre-push) - Adiciona hook para pre-push do git.
 
 ## React
-- [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
+- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A <QRCode/> component for use with React.
@@ -269,6 +269,7 @@ A curated list of awesome frontend development resources
 - [redux-auth](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
+- [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
 
 ### React Component (https://github.com/react-component)
