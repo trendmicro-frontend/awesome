@@ -394,3 +394,6 @@ A curated list of awesome frontend development resources
 ## Web Frameworks
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [koa](http://koajs.com/) - Next generation web framework for Node.js.
+
+## Web Worker
+- [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
