@@ -361,6 +361,7 @@ A curated list of awesome frontend development resources
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
 - [moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency.
 - [multiline-template](https://github.com/jayphelps/multiline-template) - Multiline tagged templates using a pipe |, followed by a space, to signal line start, no more crazy indent hacks.
+- [node-lur-cache](https://github.com/isaacs/node-lru-cache) - A cache object that deletes the least-recently-used items.
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses).
 - [node-which](https://github.com/npm/node-which) - Like which(1) unix command. Find the first instance of an executable in the PATH.
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
