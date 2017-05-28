@@ -79,7 +79,7 @@ A curated list of awesome frontend development resources
 - [webpack-blocks](https://github.com/andywer/webpack-blocks) - 📦 Configure webpack using functional feature blocks.
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server.
 
-## Command-line Utilities
+## Command-line & Terminal Utilities
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 - [cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables for the CLI with Node.js.
@@ -87,6 +87,7 @@ A curated list of awesome frontend development resources
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [node-progress](https://github.com/tj/node-progress) - Flexible ascii progress bar for nodejs.
 - [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js.
+- [xterm.js](https://github.com/sourcelair/xterm.js) - Full xterm terminal, in your browser. http://xtermjs.org/
 
 ## Computer Vision
 - [node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js.
