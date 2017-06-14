@@ -174,8 +174,10 @@ A curated list of awesome frontend development resources
 - [cylon](https://github.com/hybridgroup/cylon/) - JavaScript framework for robotics, drones, and the Internet of Things (IoT).
 - [Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter.
 - [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework.
+- [node-hid](https://github.com/node-hid/node-hid) - Access USB HID devices through Node.JS.
 - [node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport) - Node.js package to access serial ports for reading and writing OR Welcome your robotic JavaScript overlords.
 - [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
+
 
 ## Json Web Token (JWT)
 - [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes.
