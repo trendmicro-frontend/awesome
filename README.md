@@ -399,6 +399,9 @@ A curated list of awesome frontend development resources
 ## Virtual Reality
 - [aframe](https://github.com/aframevr/aframe) - Building Blocks for the VR Web.
 
+## Web Builder
+- [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+
 ## Web Sockets
 - [localcast](https://github.com/mafintosh/localcast) - A shared event emitter that works across multiple processes on the same machine, including the browser!
 
