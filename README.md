@@ -238,6 +238,7 @@ A curated list of awesome frontend development resources
 - [react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts.
 - [react-color](https://github.com/casesandberg/react-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
 - [react-csv](https://github.com/abdennour/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data. http://elegance.abdennoor.com/react-csv/
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 - [react-dates](https://github.com/airbnb/react-dates) - An accessible, easily internationalizable, mobile-friendly datepicker library for the web.
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
