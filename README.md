@@ -338,6 +338,7 @@ A curated list of awesome frontend development resources
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. https://prepack.io
 - [pv](https://github.com/juliangruber/node-pv) - A node.js implementation of the Pipe Viewer utility, useful for inspecting a pipe's traffic.
+- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts. http://www.shellcheck.net
 - [statsd](https://github.com/etsy/statsd) - Daemon for easy but powerful stats aggregation.
 - [visual-center](https://github.com/javierbyte/visual-center) - This is a tool that will find the visual center of your images.
 - [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
