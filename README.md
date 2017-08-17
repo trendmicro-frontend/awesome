@@ -13,25 +13,26 @@ A curated list of awesome frontend development resources
 - [eslint-config-trendmicro](https://github.com/trendmicro-frontend/eslint-config-trendmicro) - This package provides .eslintrc as an extensible shared config.
 
 ### Generator
-- [react-component-template](https://github.com/trendmicro-frontend/react-component-template) - Trend Micro Components: React Component Template.
+- [react-component-template](https://github.com/trendmicro-frontend/react-component-template) - React component template.
 
 ### React Components
-- [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - Trend Micro Components: React Anchor.
-- [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - Trend Micro Components: React Breadcrumbs.
-- [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - Trend Micro Components: React Buttons.
-- [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - Trend Micro Components: React Checkbox.
+- [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - React Anchor component.
+- [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - React Breadcrumbs component.
+- [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - React Buttons component.
+- [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - React Checkbox component.
 - [react-clusterize](https://github.com/trendmicro-frontend/react-clusterize) - React component for Clusterize.js.
-- [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - Trend Micro Components: React Dropdown.
+- [react-datepicker](https://github.com/trendmicro-frontend/react-datepicker) - React DatePicker component.
+- [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - React Dropdown component.
 - [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields.
 - [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
-- [react-loader](https://github.com/trendmicro-frontend/react-loader) - Trend Micro Components: React Loader.
-- [react-modal](https://github.com/trendmicro-frontend/react-modal) - Trend Micro Components: React Modal.
-- [react-navs](https://github.com/trendmicro-frontend/react-navs) - Trend Micro Components: React Navs.
-- [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - Trend Micro Components: React Navbar.
-- [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - Trend Micro Components: React Paginations.
-- [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - Trend Micro Components: React Radio Button.
-- [react-table](https://github.com/trendmicro-frontend/react-table) - Trend Micro Components: React Table.
-- [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - Trend Micro Components: React Toggle Switch.
+- [react-loader](https://github.com/trendmicro-frontend/react-loader) - React Loader component.
+- [react-modal](https://github.com/trendmicro-frontend/react-modal) - React Modal component.
+- [react-navs](https://github.com/trendmicro-frontend/react-navs) - React Navs component.
+- [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - React Navbar component.
+- [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - React Paginations component.
+- [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - React Radio Button component.
+- [react-table](https://github.com/trendmicro-frontend/react-table) - React Table component.
+- [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - React Toggle Switch component.
 
 ## Ask Me Anything
 - https://github.com/sindresorhus/ama
