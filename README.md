@@ -29,6 +29,7 @@ A curated list of awesome frontend development resources
 - [react-modal](https://github.com/trendmicro-frontend/react-modal) - React Modal component.
 - [react-navs](https://github.com/trendmicro-frontend/react-navs) - React Navs component.
 - [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - React Navbar component.
+- [react-notifications](https://github.com/trendmicro-frontend/react-notifications) React Notifications component.
 - [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - React Paginations component.
 - [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - React Radio Button component.
 - [react-table](https://github.com/trendmicro-frontend/react-table) - React Table component.
