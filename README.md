@@ -242,6 +242,7 @@ A curated list of awesome frontend development resources
 - [react-csv](https://github.com/abdennour/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data. http://elegance.abdennoor.com/react-csv/
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 - [react-dates](https://github.com/airbnb/react-dates) - An accessible, easily internationalizable, mobile-friendly datepicker library for the web.
+- [react-detect-offline](https://github.com/chrisbolin/react-detect-offline) - Offline and Online components for React.
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
 - [react-dropzone](Convert hierarchical tree structure to flat structure.) - Simple HTML5 drag-drop zone with React.js.
