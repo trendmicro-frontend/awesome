@@ -117,6 +117,7 @@ A curated list of awesome frontend development resources
 - [c3](https://github.com/c3js/c3) - A D3-based reusable chart library.
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
 - [d3-node](https://github.com/d3-node/d3-node) - Server-side D3 for static chart/map generation.
+- [vx](https://github.com/hshoff/vx) - react + d3 = vx | visualization components. https://vx-demo.now.sh/
 
 ## Database
 - [mongojs](https://github.com/mafintosh/mongojs) - Node.js module that implements the offical mongo api.
