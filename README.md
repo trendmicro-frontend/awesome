@@ -274,6 +274,7 @@ A curated list of awesome frontend development resources
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
+- [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, scrolling to index, and more!
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
