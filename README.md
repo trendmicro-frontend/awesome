@@ -374,6 +374,7 @@ A curated list of awesome frontend development resources
 - [globby](https://github.com/sindresorhus/globby) - Extends [glob](https://github.com/isaacs/node-glob) with support for multiple patterns.
 - [hashlru](https://github.com/dominictarr/hashlru) - Simpler, faster LRU cache algorithm.
 - [html5-tag](https://github.com/cheton/html5-tag) - A simple utility for creating HTML5 tags.
+- [iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
 - [moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency.
