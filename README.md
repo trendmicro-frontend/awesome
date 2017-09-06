@@ -255,6 +255,7 @@ A curated list of awesome frontend development resources
 - [react-hi-text](https://github.com/rwu823/react-hi-text) - React text highlight component.
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.
 - [react-hotkeys](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React.
+- [react-idle](https://github.com/ReactTraining/react-idle) - Notifies your app when the user is idle.
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
