@@ -23,6 +23,7 @@ A curated list of awesome frontend development resources
 - [react-clusterize](https://github.com/trendmicro-frontend/react-clusterize) - React component for Clusterize.js.
 - [react-datepicker](https://github.com/trendmicro-frontend/react-datepicker) - React DatePicker component.
 - [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - React Dropdown component.
+- [react-iframe](https://github.com/trendmicro-frontend/react-iframe) - React iFrame component.
 - [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields.
 - [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
 - [react-loader](https://github.com/trendmicro-frontend/react-loader) - React Loader component.
@@ -31,9 +32,12 @@ A curated list of awesome frontend development resources
 - [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - React Navbar component.
 - [react-notifications](https://github.com/trendmicro-frontend/react-notifications) - React Notifications component.
 - [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - React Paginations component.
+- [react-popover](https://github.com/trendmicro-frontend/react-popover) - React Popover component.
+- [react-portal](https://github.com/trendmicro-frontend/react-portal) - React Portal component.
 - [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - React Radio Button component.
 - [react-table](https://github.com/trendmicro-frontend/react-table) - React Table component.
 - [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - React Toggle Switch component.
+- [react-tooltip](https://github.com/trendmicro-frontend/react-tooltip) - React Tooltip component.
 
 ## Ask Me Anything
 - https://github.com/sindresorhus/ama
