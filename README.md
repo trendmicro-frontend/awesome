@@ -387,7 +387,7 @@ A curated list of awesome frontend development resources
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
-- [pretty-format](https://github.com/thejameskyle/pretty-format) - ✨ Stringify any JavaScript value.
+- [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) - ✨ Stringify any JavaScript value.
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [qs](https://github.com/ljharb/qs) - A querystring parser with nesting support.
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
