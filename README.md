@@ -64,6 +64,7 @@ A curated list of awesome frontend development resources
 - [passport-saml](https://github.com/bergie/passport-saml) - SAML 2.0 authentication with Passport.
 
 ## Automation
+- [chromeless](https://github.com/graphcool/chromeless) - 🖥 Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API.
 - [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.
 
