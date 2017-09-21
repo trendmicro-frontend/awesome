@@ -394,6 +394,7 @@ A curated list of awesome frontend development resources
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
 - [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) - ✨ Stringify any JavaScript value.
+- [protobuf.js](https://github.com/dcodeIO/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [qs](https://github.com/ljharb/qs) - A querystring parser with nesting support.
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
