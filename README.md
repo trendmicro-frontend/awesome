@@ -87,6 +87,12 @@ A curated list of awesome frontend development resources
 - [webpack-blocks](https://github.com/andywer/webpack-blocks) - 📦 Configure webpack using functional feature blocks.
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server.
 
+## Cheatsheet 
+- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+- [react-component-composition-cheatsheet](https://github.com/xat/react-component-composition-cheatsheet) - React component composition cheatsheet.
+- [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) - Most of the React Native styling material in one page.
+- [react-redux-cheatsheet](https://github.com/uanders/react-redux-cheatsheet) - React Redux Cheat Sheet on Workflow & Concept.
+
 ## Command-line & Terminal Utilities
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
