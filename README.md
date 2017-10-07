@@ -427,6 +427,9 @@ A curated list of awesome frontend development resources
 ## Virtual Reality
 - [aframe](https://github.com/aframevr/aframe) - Building Blocks for the VR Web.
 
+## Vue
+- [vuera](https://github.com/akxcv/vuera) - 👀 React in Vue, Vue in React. Seamless integration of the two.
+
 ## Web Builder
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
 
