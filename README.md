@@ -354,6 +354,7 @@ A curated list of awesome frontend development resources
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows.
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions.
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. https://prepack.io
 - [pv](https://github.com/juliangruber/node-pv) - A node.js implementation of the Pipe Viewer utility, useful for inspecting a pipe's traffic.
