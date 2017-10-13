@@ -280,6 +280,7 @@ A curated list of awesome frontend development resources
 - [react-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
+- [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [react-selection](https://github.com/rwu823/react-selection) - Like the normal OS selection.
 - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
