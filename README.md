@@ -20,7 +20,6 @@ A curated list of awesome frontend development resources
 - [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - React Breadcrumbs component.
 - [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - React Buttons component.
 - [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - React Checkbox component.
-- [react-clusterize](https://github.com/trendmicro-frontend/react-clusterize) - React component for Clusterize.js.
 - [react-datepicker](https://github.com/trendmicro-frontend/react-datepicker) - React DatePicker component.
 - [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - React Dropdown component.
 - [react-iframe](https://github.com/trendmicro-frontend/react-iframe) - React iFrame component.
