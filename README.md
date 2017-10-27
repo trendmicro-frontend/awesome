@@ -38,6 +38,7 @@ A curated list of awesome frontend development resources
 - [react-table](https://github.com/trendmicro-frontend/react-table) - React Table component.
 - [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - React Toggle Switch component.
 - [react-tooltip](https://github.com/trendmicro-frontend/react-tooltip) - React Tooltip component.
+- [react-validation](https://github.com/trendmicro-frontend/react-validation) - React Validation component.
 
 ## Ask Me Anything
 - https://github.com/sindresorhus/ama
