@@ -297,6 +297,7 @@ A curated list of awesome frontend development resources
 - [redux-auth](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
+- [svgr](https://github.com/smooth-code/svgr) - Transform SVG into React components 🦁.
 - [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
 
