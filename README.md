@@ -214,6 +214,9 @@ A curated list of awesome frontend development resources
 ## P2P
 - [p2p-graph](https://github.com/feross/p2p-graph) - Real-time P2P network visualization with D3.
 - [webtorrent](https://github.com/feross/webtorrent) - ⚡ Streaming torrent client for the web.
+- [discovery-channel](https://github.com/maxogden/discovery-channel) - Search for a key across multiple discovery networks and find peers who answer.
+- [discovery-server](https://github.com/mafintosh/discovery-server) - A tcp/utp server that auto announces itself using discovery-channel.
+- [discovery-swarm](https://github.com/mafintosh/discovery-swarm) - A network swarm that uses discovery-channel to find peers.
 
 ## Polyfill
 - [babel-polyfill](https://github.com/babel/babel/tree/master/packages/babel-polyfill) - Provides polyfills necessary for a full ES2015+ environment.
