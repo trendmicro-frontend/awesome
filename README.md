@@ -277,6 +277,7 @@ A curated list of awesome frontend development resources
 - [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
 - [react-loadable](https://github.com/thejameskyle/react-loadable) - A higher order component for loading components with promises.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
+- [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React.
