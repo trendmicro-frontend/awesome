@@ -1,9 +1,6 @@
 # Awesome Frontend Development Resources
 A curated list of awesome frontend development resources
 
-## Books
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-
 ## Trend Micro
 
 ### Styles
@@ -16,28 +13,30 @@ A curated list of awesome frontend development resources
 - [react-component-template](https://github.com/trendmicro-frontend/react-component-template) - React component template.
 
 ### React Components
-- [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - React Anchor component.
-- [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - React Breadcrumbs component.
-- [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - React Buttons component.
-- [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - React Checkbox component.
-- [react-datepicker](https://github.com/trendmicro-frontend/react-datepicker) - React DatePicker component.
-- [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - React Dropdown component.
-- [react-iframe](https://github.com/trendmicro-frontend/react-iframe) - React iFrame component.
-- [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields.
-- [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
-- [react-loader](https://github.com/trendmicro-frontend/react-loader) - React Loader component.
-- [react-modal](https://github.com/trendmicro-frontend/react-modal) - React Modal component.
-- [react-navs](https://github.com/trendmicro-frontend/react-navs) - React Navs component.
-- [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - React Navbar component.
-- [react-notifications](https://github.com/trendmicro-frontend/react-notifications) - React Notifications component.
-- [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - React Paginations component.
-- [react-popover](https://github.com/trendmicro-frontend/react-popover) - React Popover component.
-- [react-portal](https://github.com/trendmicro-frontend/react-portal) - React Portal component.
-- [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - React Radio Button component.
-- [react-table](https://github.com/trendmicro-frontend/react-table) - React Table component.
-- [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - React Toggle Switch component.
-- [react-tooltip](https://github.com/trendmicro-frontend/react-tooltip) - React Tooltip component.
-- [react-validation](https://github.com/trendmicro-frontend/react-validation) - React Validation component.
+- [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - React Anchor component ([demo](https://trendmicro-frontend.github.io/react-anchor/)).
+- [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - React Breadcrumbs component ([demo](https://trendmicro-frontend.github.io/react-breadcrumbs/)).
+- [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - React Buttons component ([demo](https://trendmicro-frontend.github.io/react-buttons/)).
+- [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - React Checkbox component ([demo](https://trendmicro-frontend.github.io/react-checkbox/)).
+- [react-datepicker](https://github.com/trendmicro-frontend/react-datepicker) - React DatePicker component ([demo](https://trendmicro-frontend.github.io/react-datepicker/)).
+- [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - React Dropdown component ([demo](https://trendmicro-frontend.github.io/react-dropdown/)).
+- [react-iframe](https://github.com/trendmicro-frontend/react-iframe) - React iFrame component ([demo](https://trendmicro-frontend.github.io/react-iframe/)).
+- [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields ([demo](https://trendmicro-frontend.github.io/react-interpolate/)).
+- [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component ([demo](https://trendmicro-frontend.github.io/react-liquid-gauge/)).
+- [react-loader](https://github.com/trendmicro-frontend/react-loader) - React Loader component ([demo](https://trendmicro-frontend.github.io/react-loader/)).
+- [react-modal](https://github.com/trendmicro-frontend/react-modal) - React Modal component ([demo](https://trendmicro-frontend.github.io/react-modal/)).
+- [react-navs](https://github.com/trendmicro-frontend/react-navs) - React Navs component ([demo](https://trendmicro-frontend.github.io/react-navs/)).
+- [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - React Navbar component ([demo](https://trendmicro-frontend.github.io/react-navbar/)).
+- [react-notifications](https://github.com/trendmicro-frontend/react-notifications) - React Notifications component ([demo](https://trendmicro-frontend.github.io/react-notifications/)).
+- [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - React Paginations component ([demo](https://trendmicro-frontend.github.io/react-paginations/)).
+- [react-popover](https://github.com/trendmicro-frontend/react-popover) - React Popover component ([demo](https://trendmicro-frontend.github.io/react-popover/)).
+- [react-portal](https://github.com/trendmicro-frontend/react-portal) - React Portal component ([demo](https://trendmicro-frontend.github.io/react-portal/)).
+- [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - React Radio Button component ([demo](https://trendmicro-frontend.github.io/react-radio-button/)).
+- [react-table](https://github.com/trendmicro-frontend/react-table) - React Table component ([demo](https://trendmicro-frontend.github.io/react-table/)).
+- [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - React Toggle Switch component ([demo](https://trendmicro-frontend.github.io/react-toggle-switch/)).
+- [react-tooltip](https://github.com/trendmicro-frontend/react-tooltip) - React Tooltip component ([demo](https://trendmicro-frontend.github.io/react-tooltip/)).
+- [react-validation](https://github.com/trendmicro-frontend/react-validation) - React Validation component ([demo](https://trendmicro-frontend.github.io/react-validation/)).
+
+---
 
 ## Ask Me Anything
 - https://github.com/sindresorhus/ama
@@ -72,6 +71,9 @@ A curated list of awesome frontend development resources
 - [babel-plugin-boilerplate](https://github.com/supreetpal/babel-plugin-boilerplate) - A setup to get you started on building babel plugins.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Live editing development on desktop app.
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+## Books
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
 ## Build Tools
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
