@@ -268,6 +268,7 @@ A curated list of awesome frontend development resources
 - [react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers.
 - [react-facebook-login](https://github.com/keppelen/react-facebook-login) - A Component React for Facebook Login.
 - [react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js.
+- [react-fns](https://github.com/jaredpalmer/react-fns) - Modern React components, render-props, hoc's, and utility functions.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-hi-text](https://github.com/rwu823/react-hi-text) - React text highlight component.
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.
