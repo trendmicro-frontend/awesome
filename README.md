@@ -363,6 +363,7 @@ A curated list of awesome frontend development resources
 - [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 - [node-mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like `mkdir -p`, but in node.js.
+- [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, etc).
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows.
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions.
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
