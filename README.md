@@ -257,6 +257,7 @@ A curated list of awesome frontend development resources
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 - [react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts.
 - [react-color](https://github.com/casesandberg/react-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
+- [react-contexify](https://github.com/fkhadra/react-contexify) - Add a context menu to your react app with ease.
 - [react-csv](https://github.com/abdennour/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data. http://elegance.abdennoor.com/react-csv/
 - [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component.
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
