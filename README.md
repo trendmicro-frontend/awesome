@@ -303,10 +303,6 @@ A curated list of awesome frontend development resources
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
 - [react-xp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
-- [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
-- [redux-auth](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
-- [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
-- [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
 - [svgr](https://github.com/smooth-code/svgr) - Transform SVG into React components 🦁.
 - [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
@@ -330,6 +326,13 @@ A curated list of awesome frontend development resources
 
 ## Real-time
 - [socket.io](https://github.com/socketio/socket.io/) - Realtime application framework (Node.JS server).
+
+## Redux
+- [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps.
+- [redux-auth](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
+- [redux-connect](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router, extremely useful for handling server-side rendering in React.
+- [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
+- [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
 
 ## Serverless
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
