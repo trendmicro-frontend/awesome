@@ -390,6 +390,7 @@ A curated list of awesome frontend development resources
 - [virtualjoystick](https://github.com/jeromeetienne/virtualjoystick.js) - A virtual joystick library to emulate a joystick on touch screen in javascript.
 
 ## Utilities
+- [animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web. http://animateplus.com/examples/getting-started
 - [array-lru](https://github.com/mafintosh/array-lru) - A really fast LRU cache for array items (numeric keys).
 - [chained-function](https://github.com/cheton/chained-function) - Chained function calls.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
