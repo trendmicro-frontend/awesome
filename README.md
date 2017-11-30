@@ -270,6 +270,7 @@ A curated list of awesome frontend development resources
 - [react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers.
 - [react-facebook-login](https://github.com/keppelen/react-facebook-login) - A Component React for Facebook Login.
 - [react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js.
+- [react-final-form](https://github.com/erikras/react-final-form) - 🏁 High performance subscription-based form state management for React.
 - [react-fns](https://github.com/jaredpalmer/react-fns) - Modern React components, render-props, hoc's, and utility functions.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-hi-text](https://github.com/rwu823/react-hi-text) - React text highlight component.
@@ -406,6 +407,7 @@ A curated list of awesome frontend development resources
 - [escape-html](https://github.com/component/escape-html) - Escape string for use in HTML.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [feature.js](https://github.com/viljamis/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
+- [final-form](https://github.com/erikras/final-form) - 🏁 Framework agnostic, high performance, subscription-based form state management.
 - [find-imports](https://github.com/cheton/find-imports) - Find all imported modules in JavaScript files.
 - [fitty](https://github.com/rikschennink/fitty) - Makes text fit perfectly.
 - [flattree](https://github.com/cheton/flattree) - Convert hierarchical tree structure to flat structure.
