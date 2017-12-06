@@ -434,6 +434,7 @@ A curated list of awesome frontend development resources
 - [qs](https://github.com/ljharb/qs) - A querystring parser with nesting support.
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
+- [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in Javascript.
 - [table](https://github.com/gajus/table) - Formats data into a string table.
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators.
 - [text-width](https://github.com/kapetan/text-width) - Measure the text width in browsers.
