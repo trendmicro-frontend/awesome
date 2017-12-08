@@ -188,6 +188,12 @@ A curated list of awesome frontend development resources
 ## Icon Fonts
 - [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit.
 
+## Image Processing
+- [color-thief](https://github.com/lokesh/color-thief/) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
+- [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+- [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
+- [zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense. http://desmonding.me/zooming/
+
 ## IoT
 - [cylon](https://github.com/hybridgroup/cylon/) - JavaScript framework for robotics, drones, and the Internet of Things (IoT).
 - [Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter.
@@ -397,7 +403,6 @@ A curated list of awesome frontend development resources
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
-- [color-thief](https://github.com/lokesh/color-thief/) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Cross platform setting of environment scripts.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
@@ -426,7 +431,6 @@ A curated list of awesome frontend development resources
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses).
 - [node-which](https://github.com/npm/node-which) - Like which(1) unix command. Find the first instance of an executable in the PATH.
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
-- [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
 - [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) - ✨ Stringify any JavaScript value.
 - [protobuf.js](https://github.com/dcodeIO/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
@@ -444,7 +448,6 @@ A curated list of awesome frontend development resources
 - [universal-logger-browser](https://github.com/cheton/universal-logger-browser) - Browser plugins for universal logger.
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
-- [zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense. http://desmonding.me/zooming/
 
 ## Video
 - [jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript.
