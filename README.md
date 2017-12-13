@@ -31,6 +31,7 @@ A curated list of awesome frontend development resources
 - [react-popover](https://github.com/trendmicro-frontend/react-popover) - React Popover component ([demo](https://trendmicro-frontend.github.io/react-popover/)).
 - [react-portal](https://github.com/trendmicro-frontend/react-portal) - React Portal component ([demo](https://trendmicro-frontend.github.io/react-portal/)).
 - [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - React Radio Button component ([demo](https://trendmicro-frontend.github.io/react-radio-button/)).
+- [reacr-sidenav](https://github.com/trendmicro-frontend/react-sidenav) - React SideNav component ([demo](https://trendmicro-frontend.github.io/react-sidenav/)).
 - [react-table](https://github.com/trendmicro-frontend/react-table) - React Table component ([demo](https://trendmicro-frontend.github.io/react-table/)).
 - [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - React Toggle Switch component ([demo](https://trendmicro-frontend.github.io/react-toggle-switch/)).
 - [react-tooltip](https://github.com/trendmicro-frontend/react-tooltip) - React Tooltip component ([demo](https://trendmicro-frontend.github.io/react-tooltip/)).
