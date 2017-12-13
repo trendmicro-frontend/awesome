@@ -409,6 +409,7 @@ A curated list of awesome frontend development resources
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - [detect-browser](https://github.com/DamonOehlman/detect-browser) - Unpack a browser type and version from the useragent string.
+- [element-ready](https://github.com/sindresorhus/element-ready) - Detect when an element is ready in the DOM.
 - [emergence.js](https://github.com/xtianmiller/emergence.js) - Detect element visibility in the browser.
 - [escape-html](https://github.com/component/escape-html) - Escape string for use in HTML.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
