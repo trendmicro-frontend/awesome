@@ -451,6 +451,9 @@ A curated list of awesome frontend development resources
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 
+## Validation
+- [isemail](https://github.com/hapijs/isemail) - Validate an email address according to RFCs 5321, 5322, and others.
+
 ## Video
 - [jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript.
 - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org).
