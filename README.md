@@ -212,6 +212,7 @@ A curated list of awesome frontend development resources
 ## Math
 - [big](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [expr-eval](https://github.com/silentmatt/expr-eval) - Mathematical expression evaluator in JavaScript.
+- [frac](https://github.com/SheetJS/frac) - ➗ Rational approximation with bounded denominator. http://oss.sheetjs.com/frac/
 
 ## Mail
 - [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
