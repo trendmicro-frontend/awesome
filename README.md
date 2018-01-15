@@ -43,6 +43,9 @@ A curated list of awesome frontend development resources
 - https://github.com/sindresorhus/ama
 - https://github.com/kentcdodds/ama
 
+## Audio
+- [Tone.js](https://github.com/Tonejs/Tone.js/) - A Web Audio framework for making interactive music in the browser.
+
 ## Awesome
 - [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - 🎨 Creative Coding, Generative Art, Interaction Design, Resources.
@@ -237,6 +240,7 @@ A curated list of awesome frontend development resources
 - [es7-shim](https://github.com/es-shims/es7-shim) - ECMAScript 7 compatibility shims for legacy JavaScript engines.
 - [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More.
+- [polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service. https://polyfill.io/v2/docs/
 - [webvr-polyfill](https://github.com/borismus/webvr-polyfill) - Use WebVR today, without requiring a special browser build.
 
 ## Presentation
@@ -245,6 +249,9 @@ A curated list of awesome frontend development resources
 - [spectacle-boilerplate](https://github.com/FormidableLabs/spectacle-boilerplate) - Boilerplate project for getting started with Spectacle Core.
 - [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide) - :metal: Present code with style.
 - [spectacle-editor](https://github.com/FormidableLabs/spectacle-editor) - Drag and drop Spectacle editor.
+
+## Private NPM
+- [verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight private npm proxy registry (sinopia fork).
 
 ## Productivity
 - [pre-commit](https://github.com/observing/pre-commit) - Automatically installs a git pre-commit script in your git repository which runs your `npm test` on pre-commit.
@@ -265,6 +272,7 @@ A curated list of awesome frontend development resources
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 - [react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts.
+- [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height.
 - [react-color](https://github.com/casesandberg/react-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
 - [react-contexify](https://github.com/fkhadra/react-contexify) - Add a context menu to your react app with ease.
 - [react-csv](https://github.com/abdennour/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data. http://elegance.abdennoor.com/react-csv/
@@ -290,6 +298,7 @@ A curated list of awesome frontend development resources
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
+- [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your features.
 - [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
 - [react-loadable](https://github.com/thejameskyle/react-loadable) - A higher order component for loading components with promises.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
@@ -299,6 +308,7 @@ A curated list of awesome frontend development resources
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React.
 - [react-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
+- [react-repeatable](https://github.com/cheton/react-repeatable) - A press and hold wrapper component that can trigger hold action multiple times while holding down.
 - [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
@@ -309,6 +319,8 @@ A curated list of awesome frontend development resources
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, scrolling to index, and more!
+- [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
+- [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
@@ -399,6 +411,7 @@ A curated list of awesome frontend development resources
 - [virtualjoystick](https://github.com/jeromeetienne/virtualjoystick.js) - A virtual joystick library to emulate a joystick on touch screen in javascript.
 
 ## Utilities
+- [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 - [animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web. http://animateplus.com/examples/getting-started
 - [array-lru](https://github.com/mafintosh/array-lru) - A really fast LRU cache for array items (numeric keys).
 - [chained-function](https://github.com/cheton/chained-function) - Chained function calls.
@@ -433,12 +446,14 @@ A curated list of awesome frontend development resources
 - [node-lur-cache](https://github.com/isaacs/node-lru-cache) - A cache object that deletes the least-recently-used items.
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses).
 - [node-which](https://github.com/npm/node-which) - Like which(1) unix command. Find the first instance of an executable in the PATH.
+- [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
 - [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) - ✨ Stringify any JavaScript value.
 - [protobuf.js](https://github.com/dcodeIO/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [qs](https://github.com/ljharb/qs) - A querystring parser with nesting support.
+- [scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) - Element.scrollIntoViewIfNeeded ponyfill that can animate the scrolling.
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in Javascript.
