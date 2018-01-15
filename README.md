@@ -195,6 +195,7 @@ A curated list of awesome frontend development resources
 ## Image Processing
 - [color-thief](https://github.com/lokesh/color-thief/) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
 - [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+- [cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
 - [zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense. http://desmonding.me/zooming/
 
@@ -279,6 +280,7 @@ A curated list of awesome frontend development resources
 - [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component.
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 - [react-dates](https://github.com/airbnb/react-dates) - An accessible, easily internationalizable, mobile-friendly datepicker library for the web.
+- [react-datetime](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component.
 - [react-detect-offline](https://github.com/chrisbolin/react-detect-offline) - Offline and Online components for React.
 - [react-dnd](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
@@ -421,6 +423,7 @@ A curated list of awesome frontend development resources
 - [cross-env](https://github.com/kentcdodds/cross-env) - Cross platform setting of environment scripts.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
+- [defaults-deep](https://www.npmjs.com/package/defaults-deep) - Like extend but recursively copies only the missing properties/values to the target object.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - [detect-browser](https://github.com/DamonOehlman/detect-browser) - Unpack a browser type and version from the useragent string.
 - [element-ready](https://github.com/sindresorhus/element-ready) - Detect when an element is ready in the DOM.
@@ -439,6 +442,7 @@ A curated list of awesome frontend development resources
 - [html5-tag](https://github.com/cheton/html5-tag) - A simple utility for creating HTML5 tags.
 - [iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames.
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
+- [merge-deep](https://github.com/jonschlinkert/merge-deep) - Recursively merge values in a JavaScript object.
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
 - [moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency.
 - [multiline-template](https://github.com/jayphelps/multiline-template) - Multiline tagged templates using a pipe |, followed by a space, to signal line start, no more crazy indent hacks.
@@ -446,6 +450,7 @@ A curated list of awesome frontend development resources
 - [node-lur-cache](https://github.com/isaacs/node-lru-cache) - A cache object that deletes the least-recently-used items.
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses).
 - [node-which](https://github.com/npm/node-which) - Like which(1) unix command. Find the first instance of an executable in the PATH.
+- [omit-deep](https://github.com/jonschlinkert/omit-deep) - Recursively omit specified keys from an object.
 - [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
