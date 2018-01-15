@@ -109,6 +109,9 @@ A curated list of awesome frontend development resources
 - [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js.
 - [xterm.js](https://github.com/sourcelair/xterm.js) - Full xterm terminal, in your browser. http://xtermjs.org/
 
+## Compiler
+- [emscripten](https://github.com/kripken/emscripten) - Emscripten: An LLVM-to-JavaScript Compiler. http://kripken.github.io/emscripten-site/
+
 ## Computer Vision
 - [node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js.
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
@@ -166,6 +169,7 @@ A curated list of awesome frontend development resources
 - [synthetic-dom-events](https://github.com/defunctzombie/synthetic-dom-events) - Create DOM events for builtin event types.
 
 ## Game
+- [boardgame](https://github.com/google/boardgame.io) - State management and more for turn based games. http://boardgame.io/
 - [gamepad](https://github.com/w3c/gamepad) - Gamepad specification.
 
 ## Graphics
