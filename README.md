@@ -168,6 +168,10 @@ A curated list of awesome frontend development resources
 - [offset](https://www.npmjs.com/package/offset) - Get the xy offset of an element.
 - [synthetic-dom-events](https://github.com/defunctzombie/synthetic-dom-events) - Create DOM events for builtin event types.
 
+## Editor
+- [ckeditor-dev](https://github.com/ckeditor/ckeditor-dev) - The development repository of CKEditor 4. https://ckeditor.com/ckeditor-4/
+- [ckeditor5-engine](https://github.com/ckeditor/ckeditor5-engine) - CKEditor 5 editing engine. https://ckeditor5.github.io
+
 ## Game
 - [boardgame](https://github.com/google/boardgame.io) - State management and more for turn based games. http://boardgame.io/
 - [gamepad](https://github.com/w3c/gamepad) - Gamepad specification.
