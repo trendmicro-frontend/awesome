@@ -266,6 +266,10 @@ A curated list of awesome frontend development resources
 - [pre-commit](https://github.com/observing/pre-commit) - Automatically installs a git pre-commit script in your git repository which runs your `npm test` on pre-commit.
 - [pre-push](https://github.com/dflourusso/pre-push) - Adiciona hook para pre-push do git.
 
+## Protocol Buffers
+- [protocol-buffers](https://github.com/mafintosh/protocol-buffers) - Protocol Buffers for Node.js.
+- [protocol-buffers-encodings](https://github.com/mafintosh/protocol-buffers-encodings) - Base encodings for protocol-buffers.
+
 ## React
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
