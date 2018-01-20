@@ -221,6 +221,14 @@ A curated list of awesome frontend development resources
 - [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js.
 - [socketio-jwt](https://github.com/auth0/socketio-jwt) - Authenticate socket.io incoming connections with JWTs.
 
+## Logging
+- [universal-logger](https://github.com/cheton/universal-logger) - A universal logging library for Node and the browser.
+- [universal-logger-browser](https://github.com/cheton/universal-logger-browser) - Browser plugins for universal logger.
+- [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
+
+## Markdown
+- [render-markdown-javascript](https://github.com/ryanflorence/render-markdown-javascript) - Renders markdown files to HTML with highlighted code blocks BUT ALSO RENDERS THE JAVASCRIPT ONES.
+
 ## Math
 - [big](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [expr-eval](https://github.com/silentmatt/expr-eval) - Mathematical expression evaluator in JavaScript.
@@ -267,6 +275,7 @@ A curated list of awesome frontend development resources
 - [pre-push](https://github.com/dflourusso/pre-push) - Adiciona hook para pre-push do git.
 
 ## Protocol Buffers
+- [protobuf.js](https://github.com/dcodeIO/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [protocol-buffers](https://github.com/mafintosh/protocol-buffers) - Protocol Buffers for Node.js.
 - [protocol-buffers-encodings](https://github.com/mafintosh/protocol-buffers-encodings) - Base encodings for protocol-buffers.
 
@@ -311,6 +320,7 @@ A curated list of awesome frontend development resources
 - [react-idle](https://github.com/ReactTraining/react-idle) - Notifies your app when the user is idle.
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 - [react-infinite](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
+- [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - ✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
 - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your features.
 - [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
@@ -431,7 +441,6 @@ A curated list of awesome frontend development resources
 - [chained-function](https://github.com/cheton/chained-function) - Chained function calls.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
-- [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Cross platform setting of environment scripts.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
@@ -467,7 +476,6 @@ A curated list of awesome frontend development resources
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
 - [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) - ✨ Stringify any JavaScript value.
-- [protobuf.js](https://github.com/dcodeIO/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [qs](https://github.com/ljharb/qs) - A querystring parser with nesting support.
 - [scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) - Element.scrollIntoViewIfNeeded ponyfill that can animate the scrolling.
@@ -479,10 +487,11 @@ A curated list of awesome frontend development resources
 - [text-width](https://github.com/kapetan/text-width) - Measure the text width in browsers.
 - [threads.js](https://github.com/andywer/threads.js) - Easy to use, yet powerful multi-threading library for node.js and the browser.
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
-- [universal-logger](https://github.com/cheton/universal-logger) - A universal logging library for Node and the browser.
-- [universal-logger-browser](https://github.com/cheton/universal-logger-browser) - Browser plugins for universal logger.
-- [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
+
+## Virtualization
+- [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
+- [virtualized-list](https://github.com/clauderic/virtualized-list) - A tiny, Vanilla JS, dependency free, virtualization library.
 
 ## Validation
 - [isemail](https://github.com/hapijs/isemail) - Validate an email address according to RFCs 5321, 5322, and others.
