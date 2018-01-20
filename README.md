@@ -245,6 +245,7 @@ A curated list of awesome frontend development resources
 ## Object
 - [deepmerge](https://github.com/KyleAMathews/deepmerge) - A library for deep (recursive) merging of Javascript objects.
 - [defaults-deep](https://www.npmjs.com/package/defaults-deep) - Like extend but recursively copies only the missing properties/values to the target object.
+- [flat](https://github.com/hughsk/flat) - 🚂 Flatten/unflatten nested Javascript objects
 - [merge-deep](https://github.com/jonschlinkert/merge-deep) - Recursively merge values in a JavaScript object.
 - [omit-deep](https://github.com/jonschlinkert/omit-deep) - Recursively omit specified keys from an object.
 - [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) - ✨ Stringify any JavaScript value.
