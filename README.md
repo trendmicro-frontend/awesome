@@ -99,6 +99,11 @@ A curated list of awesome frontend development resources
 - [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) - Most of the React Native styling material in one page.
 - [react-redux-cheatsheet](https://github.com/uanders/react-redux-cheatsheet) - React Redux Cheat Sheet on Workflow & Concept.
 
+## Color
+- [color](https://github.com/Qix-/color) - 🌈 Javascript color conversion and manipulation library
+- [color-name](https://github.com/colorjs/color-name) - A JSON with color names.
+- [colornames](https://github.com/timoxley/colornames) - Map color names to HEX color values.
+
 ## Command-line & Terminal Utilities
 - [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
