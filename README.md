@@ -323,6 +323,7 @@ A curated list of awesome frontend development resources
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
 - [react-dropzone](Convert hierarchical tree structure to flat structure.) - Simple HTML5 drag-drop zone with React.js.
 - [react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers.
+- [react-event-timeline](https://github.com/rcdexta/react-event-timeline) - A responsive event timeline in React.js.
 - [react-facebook-login](https://github.com/keppelen/react-facebook-login) - A Component React for Facebook Login.
 - [react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js.
 - [react-final-form](https://github.com/erikras/react-final-form) - 🏁 High performance subscription-based form state management for React.
