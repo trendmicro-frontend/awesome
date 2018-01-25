@@ -328,8 +328,10 @@ A curated list of awesome frontend development resources
 - [react-final-form](https://github.com/erikras/react-final-form) - 🏁 High performance subscription-based form state management for React.
 - [react-fns](https://github.com/jaredpalmer/react-fns) - Modern React components, render-props, hoc's, and utility functions.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+- [react-grid-system](https://github.com/JSxMachina/react-grid-system) - A no CSS Bootstrap-like responsive grid system for React.
 - [react-hi-text](https://github.com/rwu823/react-hi-text) - React text highlight component.
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.
+- [react-horizontal-timeline](https://github.com/sherubthakur/react-horizontal-timeline) - A Timeline component.
 - [react-hotkeys](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React.
 - [react-icon-base](https://github.com/gorangajic/react-icon-base) - base icon for https://github.com/gorangajic/react-icons.
 - [react-icons](https://github.com/cheton/react-icons) - ❤️ svg react icons of popular icon packs http://gorangajic.github.io/react-icons. 
@@ -360,6 +362,7 @@ A curated list of awesome frontend development resources
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, scrolling to index, and more!
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
+- [react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js.
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
