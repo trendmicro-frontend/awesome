@@ -526,12 +526,18 @@ A curated list of awesome frontend development resources
 ## Web Builder
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
 
-## Web Sockets
-- [localcast](https://github.com/mafintosh/localcast) - A shared event emitter that works across multiple processes on the same machine, including the browser!
-
 ## Web Frameworks
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [koa](http://koajs.com/) - Next generation web framework for Node.js.
 
+## Web Sockets
+- [localcast](https://github.com/mafintosh/localcast) - A shared event emitter that works across multiple processes on the same machine, including the browser!
+
 ## Web Worker
+- [greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
+- [worker-loader](https://github.com/webpack-contrib/worker-loader) - Worker loader module for webpack.
+- [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
+- [workerize-loader](https://github.com/developit/workerize-loader) - 🏗️ Automatically move a module into a Web Worker (Webpack loader).
+ 
+
