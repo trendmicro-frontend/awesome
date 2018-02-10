@@ -19,6 +19,7 @@ A curated list of awesome frontend development resources
 - [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - React Checkbox component ([demo](https://trendmicro-frontend.github.io/react-checkbox/)).
 - [react-datepicker](https://github.com/trendmicro-frontend/react-datepicker) - React DatePicker component ([demo](https://trendmicro-frontend.github.io/react-datepicker/)).
 - [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - React Dropdown component ([demo](https://trendmicro-frontend.github.io/react-dropdown/)).
+- [react-grid-system](https://github.com/trendmicro-frontend/react-grid-system) - React Grid System component ([demo](https://trendmicro-frontend.github.io/react-grid-system/)).
 - [react-iframe](https://github.com/trendmicro-frontend/react-iframe) - React iFrame component ([demo](https://trendmicro-frontend.github.io/react-iframe/)).
 - [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields ([demo](https://trendmicro-frontend.github.io/react-interpolate/)).
 - [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component ([demo](https://trendmicro-frontend.github.io/react-liquid-gauge/)).
