@@ -153,6 +153,9 @@ A curated list of awesome frontend development resources
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript.
 - [moment-timezone](https://github.com/moment/moment-timezone/) - Timezone support for moment.js.
 
+## Deep Learning
+- [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+
 ## Documentation
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [documentation](https://github.com/documentationjs/documentation/) - Beautiful, flexible, powerful js docs.
