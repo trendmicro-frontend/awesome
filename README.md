@@ -127,6 +127,7 @@ A curated list of awesome frontend development resources
 - [co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc).
 
 ## CSS
+- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) - A curated collection of useful CSS snippets. https://atomiks.github.io/30-seconds-of-css/
 - [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [css-modules](https://github.com/css-modules/css-modules) - A CSS file in which all class names and animation names are scoped locally by default.
 - [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations.
