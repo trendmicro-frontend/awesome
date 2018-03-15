@@ -306,6 +306,7 @@ A curated list of awesome frontend development resources
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A <QRCode/> component for use with React.
 - [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive React grid system built with styled-components.
+- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-a11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements.
 - [react-addons-css-transition-group](https://facebook.github.io/react/docs/animation.html) - A ReactTransitionGroup add-on component as a low-level API for animation, and a ReactCSSTransitionGroup for easily implementing basic CSS animations and transitions.
