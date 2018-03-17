@@ -178,10 +178,6 @@ A curated list of awesome frontend development resources
 - [offset](https://www.npmjs.com/package/offset) - Get the xy offset of an element.
 - [synthetic-dom-events](https://github.com/defunctzombie/synthetic-dom-events) - Create DOM events for builtin event types.
 
-## Editor
-- [ckeditor-dev](https://github.com/ckeditor/ckeditor-dev) - The development repository of CKEditor 4. https://ckeditor.com/ckeditor-4/
-- [ckeditor5-engine](https://github.com/ckeditor/ckeditor5-engine) - CKEditor 5 editing engine. https://ckeditor5.github.io
-
 ## Game
 - [boardgame](https://github.com/google/boardgame.io) - State management and more for turn based games. http://boardgame.io/
 - [gamepad](https://github.com/w3c/gamepad) - Gamepad specification.
@@ -434,7 +430,9 @@ A curated list of awesome frontend development resources
 - [nyc](https://github.com/bcoe/nyc) - A code coverage tool that works well with subprocesses.
 
 ## Text Editor
+- [ckeditor-dev](https://github.com/ckeditor/ckeditor-dev) - The development repository of CKEditor 4. https://ckeditor.com/ckeditor-4/
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) - Development environment for CKEditor 5; the best browser-based rich text editor. https://ckeditor.com
+- [ckeditor5-engine](https://github.com/ckeditor/ckeditor5-engine) - CKEditor 5 editing engine. https://ckeditor5.github.io
 - [pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies
 
 ## Tools
