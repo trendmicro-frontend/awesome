@@ -433,6 +433,10 @@ A curated list of awesome frontend development resources
 - [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
 - [nyc](https://github.com/bcoe/nyc) - A code coverage tool that works well with subprocesses.
 
+## Text Editor
+- [ckeditor5](https://github.com/ckeditor/ckeditor5) - Development environment for CKEditor 5; the best browser-based rich text editor. https://ckeditor.com
+- [pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies
+
 ## Tools
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users.
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention.
