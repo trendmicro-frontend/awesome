@@ -234,6 +234,7 @@ A curated list of awesome frontend development resources
 
 ## Machine Learning
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated, browser based JavaScript library for training and deploying ML models. https://js.tensorflow.org
+- [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js. https://js.tensorflow.org/
 
 ## Markdown
 - [render-markdown-javascript](https://github.com/ryanflorence/render-markdown-javascript) - Renders markdown files to HTML with highlighted code blocks BUT ALSO RENDERS THE JAVASCRIPT ONES.
