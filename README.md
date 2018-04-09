@@ -90,6 +90,7 @@ A curated list of awesome frontend development resources
 - [node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Node.js tool for easy binary deployment of C++ addons.
 - [parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel.
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler. http://rollupjs.org
 - [webpack](https://github.com/webpack/webpack) - A module bundler that bundles JavaScript and other assets for the browser.
 - [webpack-blocks](https://github.com/andywer/webpack-blocks) - 📦 Configure webpack using functional feature blocks.
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server.
