@@ -79,6 +79,7 @@ A curated list of awesome frontend development resources
 
 ## Books
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React. https://www.gitbook.com/book/krasimir/react-in-patterns/
 
 ## Build Tools
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
