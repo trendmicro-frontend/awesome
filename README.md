@@ -359,6 +359,7 @@ A curated list of awesome frontend development resources
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React.
 - [react-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached.
+- [react-pledge](https://github.com/petergombos/react-pledge) - Declarative way to track promise lifecycle states using "render props" 🕶.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-repeatable](https://github.com/cheton/react-repeatable) - A press and hold wrapper component that can trigger hold action multiple times while holding down.
 - [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
