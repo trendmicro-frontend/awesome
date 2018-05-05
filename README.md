@@ -206,6 +206,7 @@ A curated list of awesome frontend development resources
 - [i18next-scanner](https://github.com/i18next/i18next-scanner) - Scan your code, extract translation keys/values, and merge them into i18n resource files.
 
 ## Icon Fonts
+- [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons. https://feathericons.com
 - [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit.
 
 ## Image Processing
