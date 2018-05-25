@@ -61,7 +61,8 @@ A curated list of awesome frontend development resources
 
 ## Algorithms
 - [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - Algorithm Visualizer.
-- [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
+- [@trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+- [@mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
 
 ## Authentication
 - [passport](http://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
