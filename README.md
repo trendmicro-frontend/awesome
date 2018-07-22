@@ -157,6 +157,9 @@ A curated list of awesome frontend development resources
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript.
 - [moment-timezone](https://github.com/moment/moment-timezone/) - Timezone support for moment.js.
 
+## Debugging
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools.
+
 ## Deep Learning
 - [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 
