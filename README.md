@@ -508,6 +508,7 @@ A curated list of awesome frontend development resources
 - [multiline-template](https://github.com/jayphelps/multiline-template) - Multiline tagged templates using a pipe |, followed by a space, to signal line start, no more crazy indent hacks.
 - [multimatch](https://github.com/sindresorhus/multimatch) - Extends minimatch.match() with support for multiple patterns.
 - [node-lur-cache](https://github.com/isaacs/node-lru-cache) - A cache object that deletes the least-recently-used items.
+- [node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses).
 - [node-which](https://github.com/npm/node-which) - Like which(1) unix command. Find the first instance of an executable in the PATH.
 - [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
@@ -560,5 +561,3 @@ A curated list of awesome frontend development resources
 - [worker-loader](https://github.com/webpack-contrib/worker-loader) - Worker loader module for webpack.
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [workerize-loader](https://github.com/developit/workerize-loader) - 🏗️ Automatically move a module into a Web Worker (Webpack loader).
- 
-
