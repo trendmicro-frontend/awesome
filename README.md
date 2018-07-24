@@ -184,6 +184,9 @@ A curated list of awesome frontend development resources
 - [offset](https://www.npmjs.com/package/offset) - Get the xy offset of an element.
 - [synthetic-dom-events](https://github.com/defunctzombie/synthetic-dom-events) - Create DOM events for builtin event types.
 
+## Frontend Performance
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮The only Front-End Performance Checklist that runs faster than the others.
+
 ## Game
 - [boardgame](https://github.com/google/boardgame.io) - State management and more for turn based games. http://boardgame.io/
 - [gamepad](https://github.com/w3c/gamepad) - Gamepad specification.
