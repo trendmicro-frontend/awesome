@@ -116,6 +116,7 @@ A curated list of awesome frontend development resources
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [node-progress](https://github.com/tj/node-progress) - Flexible ascii progress bar for nodejs.
 - [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js.
+- [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images.
 - [xterm.js](https://github.com/sourcelair/xterm.js) - Full xterm terminal, in your browser. http://xtermjs.org/
 
 ## Compiler
