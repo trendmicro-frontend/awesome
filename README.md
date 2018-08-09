@@ -380,17 +380,21 @@ A curated list of awesome frontend development resources
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
-- [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, scrolling to index, and more!
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
 - [react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js.
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
-- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
 - [react-xp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [svgr](https://github.com/smooth-code/svgr) - Transform SVG into React components 🦁.
 - [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
+
+#### React - Virtualization
+- [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, scrolling to index, and more!
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
+- [react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer) - Standalone version of the AutoSizer component from react-virtualized.
+- [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 
 ### React Component (https://github.com/react-component)
 - [calendar](https://github.com/react-component/calendar) - React Calendar.
@@ -506,6 +510,7 @@ A curated list of awesome frontend development resources
 - [hashlru](https://github.com/dominictarr/hashlru) - Simpler, faster LRU cache algorithm.
 - [html5-tag](https://github.com/cheton/html5-tag) - A simple utility for creating HTML5 tags.
 - [iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames.
+- [js-search](https://github.com/bvaughn/js-search) - JS Search is an efficient, client-side search library for JavaScript and JSON objects. http://bvaughn.github.io/js-search/
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server. https://jsonplaceholder.typicode.com/
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
