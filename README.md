@@ -424,6 +424,9 @@ A curated list of awesome frontend development resources
 - [redux-devtools](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
 - [redux-form](https://github.com/erikras/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store.
 
+## Regex
+- [learn-regex](https://github.com/zeeshanu/learn-regex) - Learn regex the easy way.
+
 ## Serverless
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 
@@ -496,6 +499,7 @@ A curated list of awesome frontend development resources
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - [detect-browser](https://github.com/DamonOehlman/detect-browser) - Unpack a browser type and version from the useragent string.
+- [dumper.js](https://github.com/zeeshanu/dumper.js) - A better and pretty variable inspector for your Node.js applications.
 - [element-ready](https://github.com/sindresorhus/element-ready) - Detect when an element is ready in the DOM.
 - [emergence.js](https://github.com/xtianmiller/emergence.js) - Detect element visibility in the browser.
 - [escape-html](https://github.com/component/escape-html) - Escape string for use in HTML.
