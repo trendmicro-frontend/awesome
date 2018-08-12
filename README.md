@@ -367,6 +367,7 @@ A curated list of awesome frontend development resources
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. http://projects.wojtekmaj.pl/react-pdf
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React.
 - [react-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached.
 - [react-pledge](https://github.com/petergombos/react-pledge) - Declarative way to track promise lifecycle states using "render props" 🕶.
