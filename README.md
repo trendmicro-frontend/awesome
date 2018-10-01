@@ -497,6 +497,7 @@ A curated list of awesome frontend development resources
 - [chained-function](https://github.com/cheton/chained-function) - Chained function calls.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
+- [console.js](https://github.com/amio/console.js) - A game console (video game cli) for browsers. https://amio.github.io/console.js/
 - [cross-env](https://github.com/kentcdodds/cross-env) - Cross platform setting of environment scripts.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
