@@ -533,6 +533,7 @@ A curated list of awesome frontend development resources
 - [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses).
 - [node-which](https://github.com/npm/node-which) - Like which(1) unix command. Find the first instance of an executable in the PATH.
 - [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
+- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input. https://www.papaparse.com/demo
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
