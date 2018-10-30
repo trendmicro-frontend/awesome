@@ -386,6 +386,7 @@ A curated list of awesome frontend development resources
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
+- [react-toggled](https://github.com/kentcdodds/react-toggled) - Component to build simple, flexible, and accessible toggle components. https://codesandbox.io/s/m38674w9vy
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — future of React 👍 react-use. http://streamich.github.io/react-use
 - [react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js.
