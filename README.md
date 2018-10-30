@@ -385,6 +385,7 @@ A curated list of awesome frontend development resources
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
+- [react-use](https://github.com/streamich/react-use) - React Hooks — future of React 👍 react-use. http://streamich.github.io/react-use
 - [react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js.
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
