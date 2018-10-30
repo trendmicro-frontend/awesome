@@ -363,6 +363,7 @@ A curated list of awesome frontend development resources
 - [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - ✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.
 - [react-infinite-tree](https://github.com/cheton/react-infinite-tree) - The [infinite-tree](https://github.com/cheton/infinite-tree) library for React.
 - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your features.
+- [react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis) - Simple multiline ellipsis component for React.JS. https://xiaody.github.io/react-lines-ellipsis/
 - [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component.
 - [react-loadable](https://github.com/thejameskyle/react-loadable) - A higher order component for loading components with promises.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
