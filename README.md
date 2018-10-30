@@ -383,6 +383,7 @@ A curated list of awesome frontend development resources
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [react-selection](https://github.com/rwu823/react-selection) - Like the normal OS selection.
 - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
+- [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - 💬 Easy way to create conversation chats. https://lucasbassetti.com.br/react-simple-chatbot/
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
