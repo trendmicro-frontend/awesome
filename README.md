@@ -391,6 +391,7 @@ A curated list of awesome frontend development resources
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
 - [react-xp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
+- [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - 💌 styled-components for emails.
 - [svgr](https://github.com/smooth-code/svgr) - Transform SVG into React components 🦁.
 - [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
