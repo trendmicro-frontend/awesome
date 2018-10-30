@@ -367,6 +367,7 @@ A curated list of awesome frontend development resources
 - [react-loadable](https://github.com/thejameskyle/react-loadable) - A higher order component for loading components with promises.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
+- [react-move](https://github.com/react-tools/react-move) - React Move 🌀 Beautiful, data-driven animations for React. https://react-move.js.org
 - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. http://projects.wojtekmaj.pl/react-pdf
