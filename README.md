@@ -372,6 +372,7 @@ A curated list of awesome frontend development resources
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. http://projects.wojtekmaj.pl/react-pdf
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React.
 - [react-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached.
+- [react-placeholder](https://github.com/buildo/react-placeholder) - A React component to easily replicate your page with nice placeholders while the content is loading.
 - [react-pledge](https://github.com/petergombos/react-pledge) - Declarative way to track promise lifecycle states using "render props" 🕶.
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-repeatable](https://github.com/cheton/react-repeatable) - A press and hold wrapper component that can trigger hold action multiple times while holding down.
