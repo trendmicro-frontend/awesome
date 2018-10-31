@@ -329,6 +329,7 @@ A curated list of awesome frontend development resources
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
+- [react-click-outside](https://github.com/tj/react-click-outside) - ClickOutside component for React.
 - [react-clock](https://github.com/wojtekmaj/react-clock) - An analog clock for your React app. http://projects.wojtekmaj.pl/react-clock
 - [react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts.
 - [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height.
