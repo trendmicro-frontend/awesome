@@ -336,6 +336,7 @@ A curated list of awesome frontend development resources
 - [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height.
 - [react-color](https://github.com/casesandberg/react-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
 - [react-contexify](https://github.com/fkhadra/react-contexify) - Add a context menu to your react app with ease.
+- [react-countup](https://github.com/glennreyes/react-countup) - 💫 A configurable React component wrapper around CountUp.js. https://react-countup.now.sh
 - [react-csv](https://github.com/abdennour/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data. http://elegance.abdennoor.com/react-csv/
 - [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component.
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
