@@ -327,6 +327,7 @@ A curated list of awesome frontend development resources
 - [react-addons-pure-render-mixin](https://facebook.github.io/react/docs/pure-render-mixin.html) - A performance booster under certain situations.
 - [react-addons-shallow-compare](https://facebook.github.io/react/docs/shallow-compare.html) - A helper function to achieve the same functionality as PureRenderMixin while using ES6 classes with React.
 - [react-angular](https://github.com/fmauquie/react-angular) - Use AngularJS 1.x templates in react components.
+- [react-animations](https://github.com/FormidableLabs/react-animations) - 🎊 A collection of animations for inline style libraries.
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
