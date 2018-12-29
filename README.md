@@ -247,6 +247,7 @@ A curated list of awesome frontend development resources
 
 ## Machine Learning
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript http://brain.js.org
+- [ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖 https://ml5js.org
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated, browser based JavaScript library for training and deploying ML models. https://js.tensorflow.org
 - [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js. https://js.tensorflow.org/
 
