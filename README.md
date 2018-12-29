@@ -246,6 +246,7 @@ A curated list of awesome frontend development resources
 - [winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for node.js.
 
 ## Machine Learning
+- [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript http://brain.js.org
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated, browser based JavaScript library for training and deploying ML models. https://js.tensorflow.org
 - [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js. https://js.tensorflow.org/
 
