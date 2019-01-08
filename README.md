@@ -550,6 +550,7 @@ A curated list of awesome frontend development resources
 - [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input. https://www.papaparse.com/demo
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
+- [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [qs](https://github.com/ljharb/qs) - A querystring parser with nesting support.
 - [scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) - Element.scrollIntoViewIfNeeded ponyfill that can animate the scrolling.
