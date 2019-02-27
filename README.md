@@ -328,6 +328,7 @@ A curated list of awesome frontend development resources
 - [react-addons-css-transition-group](https://facebook.github.io/react/docs/animation.html) - A ReactTransitionGroup add-on component as a low-level API for animation, and a ReactCSSTransitionGroup for easily implementing basic CSS animations and transitions.
 - [react-addons-pure-render-mixin](https://facebook.github.io/react/docs/pure-render-mixin.html) - A performance booster under certain situations.
 - [react-addons-shallow-compare](https://facebook.github.io/react/docs/shallow-compare.html) - A helper function to achieve the same functionality as PureRenderMixin while using ES6 classes with React.
+- [react-animated-tree](https://github.com/drcmda/react-animated-tree) - 🌲Simple to use, configurable tree view with full support for drop-in animations.
 - [react-animations](https://github.com/FormidableLabs/react-animations) - 🎊 A collection of animations for inline style libraries.
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
@@ -392,10 +393,12 @@ A curated list of awesome frontend development resources
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - 💬 Easy way to create conversation chats. https://lucasbassetti.com.br/react-simple-chatbot/
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
+- [react-spring](https://github.com/react-spring/react-spring) - ✌️ A spring physics based React animation library. https://www.react-spring.io
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-toggled](https://github.com/kentcdodds/react-toggled) - Component to build simple, flexible, and accessible toggle components. https://codesandbox.io/s/m38674w9vy
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
+- [react-three-fiber](https://github.com/drcmda/react-three-fiber) - 👌React-fiber renderer for THREE.js.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — future of React 👍 react-use. http://streamich.github.io/react-use
 - [react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js.
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
