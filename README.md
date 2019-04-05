@@ -19,6 +19,7 @@ A curated list of awesome frontend development resources
 - [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - React Checkbox component ([demo](https://trendmicro-frontend.github.io/react-checkbox/)).
 - [react-datepicker](https://github.com/trendmicro-frontend/react-datepicker) - React DatePicker component ([demo](https://trendmicro-frontend.github.io/react-datepicker/)).
 - [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - React Dropdown component ([demo](https://trendmicro-frontend.github.io/react-dropdown/)).
+- [react-form-control](https://github.com/trendmicro-frontend/react-form-control) - React Form Control component ([demo](https://trendmicro-frontend.github.io/react-form-control/)).
 - [react-grid-system](https://github.com/trendmicro-frontend/react-grid-system) - React Grid System component ([demo](https://trendmicro-frontend.github.io/react-grid-system/)).
 - [react-iframe](https://github.com/trendmicro-frontend/react-iframe) - React iFrame component ([demo](https://trendmicro-frontend.github.io/react-iframe/)).
 - [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields ([demo](https://trendmicro-frontend.github.io/react-interpolate/)).
@@ -94,6 +95,7 @@ A curated list of awesome frontend development resources
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Node.js tool for easy binary deployment of C++ addons.
 - [parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel.
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler. http://rollupjs.org
+- [size-limit](https://github.com/ai/size-limit) - Prevent JS libraries bloat. If you accidentally add a massive dependency, Size Limit will throw an error.
 - [webpack](https://github.com/webpack/webpack) - A module bundler that bundles JavaScript and other assets for the browser.
 - [webpack-blocks](https://github.com/andywer/webpack-blocks) - 📦 Configure webpack using functional feature blocks.
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server.
