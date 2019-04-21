@@ -237,6 +237,12 @@ A curated list of awesome frontend development resources
 - [node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport) - Node.js package to access serial ports for reading and writing OR Welcome your robotic JavaScript overlords.
 - [node-usb](https://github.com/nonolith/node-usb) - Improved USB library for NodeJS.
 
+## Job Scheduling and Queues
+- [agenda](https://github.com/agenda/agenda) - ightweight job scheduling for Node.js.
+- [agendash](https://github.com/agenda/agendash) - Agenda Dashboard.
+- [agenda-rest](https://github.com/agenda/agenda-rest) - Scheduling as a Service.
+- [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
+
 ## Json Web Token (JWT)
 - [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes.
 - [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js.
