@@ -596,11 +596,14 @@ A curated list of awesome frontend development resources
 ## Web Builder
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
 
-## Web Frameworks
+## Web Component
+- [html-include-element](https://github.com/justinfagnani/html-include-element) - Easily include external HTML into your pages.
+
+## Web Framework
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [koa](http://koajs.com/) - Next generation web framework for Node.js.
 
-## Web Sockets
+## Web Socket
 - [localcast](https://github.com/mafintosh/localcast) - A shared event emitter that works across multiple processes on the same machine, including the browser!
 
 ## Web Worker
