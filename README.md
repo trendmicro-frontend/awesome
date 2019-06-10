@@ -65,6 +65,9 @@ A curated list of awesome frontend development resources
 - [@trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - [@mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
 
+## Animation
+- [scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library. http://daybrush.com/scenejs/
+
 ## Authentication
 - [passport](http://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [passport-saml](https://github.com/bergie/passport-saml) - SAML 2.0 authentication with Passport.
