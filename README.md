@@ -342,6 +342,7 @@ A curated list of awesome frontend development resources
 - [react-animated-tree](https://github.com/drcmda/react-animated-tree) - 🌲Simple to use, configurable tree view with full support for drop-in animations.
 - [react-animations](https://github.com/FormidableLabs/react-animations) - 🎊 A collection of animations for inline style libraries.
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - A ReactJS component that can sort any children with touch support and IE8 compatibility.
+- [react-base-table](https://github.com/Autodesk/react-base-table) - A react table component to display large datasets with high performance and flexibility. https://autodesk.github.io/react-base-table/
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
 - [react-click-outside](https://github.com/tj/react-click-outside) - ClickOutside component for React.
