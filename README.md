@@ -395,6 +395,7 @@ A curated list of awesome frontend development resources
 - [react-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached.
 - [react-placeholder](https://github.com/buildo/react-placeholder) - A React component to easily replicate your page with nice placeholders while the content is loading.
 - [react-pledge](https://github.com/petergombos/react-pledge) - Declarative way to track promise lifecycle states using "render props" 🕶.
+- [react-popover](https://github.com/FezVrasta/react-popper) - React wrapper around Popper.js (official). https://fezvrasta.github.io/react-popper/
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-repeatable](https://github.com/cheton/react-repeatable) - A press and hold wrapper component that can trigger hold action multiple times while holding down.
 - [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
@@ -566,6 +567,7 @@ A curated list of awesome frontend development resources
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
 - [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
+- [popper.js](https://github.com/FezVrasta/popper.js) - A kickass library to manage your poppers. https://popper.js.org
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
 - [qs](https://github.com/ljharb/qs) - A querystring parser with nesting support.
 - [scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) - Element.scrollIntoViewIfNeeded ponyfill that can animate the scrolling.
