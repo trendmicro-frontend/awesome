@@ -405,6 +405,7 @@ A curated list of awesome frontend development resources
 - [react-selection](https://github.com/rwu823/react-selection) - Like the normal OS selection.
 - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - 💬 Easy way to create conversation chats. https://lucasbassetti.com.br/react-simple-chatbot/
+- [react-slick](https://github.com/akiran/react-slick) - React carousel component. http://react-slick.neostack.com/
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-spring](https://github.com/react-spring/react-spring) - ✌️ A spring physics based React animation library. https://www.react-spring.io
