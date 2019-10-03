@@ -409,6 +409,7 @@ A curated list of awesome frontend development resources
 - [react-sortable](https://github.com/cheton/react-sortable) - A React component built on top of [Sortable](https://github.com/RubaXa/Sortable).
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
 - [react-spring](https://github.com/react-spring/react-spring) - ✌️ A spring physics based React animation library. https://www.react-spring.io
+- [react-spring-examples](https://github.com/react-spring/react-spring-examples) - React spring examples.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-toggled](https://github.com/kentcdodds/react-toggled) - Component to build simple, flexible, and accessible toggle components. https://codesandbox.io/s/m38674w9vy
