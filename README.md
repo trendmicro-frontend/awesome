@@ -498,6 +498,7 @@ A curated list of awesome frontend development resources
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users.
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention.
 - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
+- [faker.js](https://github.com/marak/Faker.js/) - generate massive amounts of realistic fake data in Node.js and the browser.
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool 🔥.
 - [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
