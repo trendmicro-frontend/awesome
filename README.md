@@ -498,7 +498,6 @@ A curated list of awesome frontend development resources
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users.
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention.
 - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
-- [faker.js](https://github.com/marak/Faker.js/) - generate massive amounts of realistic fake data in Node.js and the browser.
 - [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool 🔥.
 - [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
@@ -542,6 +541,7 @@ A curated list of awesome frontend development resources
 - [emergence.js](https://github.com/xtianmiller/emergence.js) - Detect element visibility in the browser.
 - [escape-html](https://github.com/component/escape-html) - Escape string for use in HTML.
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+- [faker.js](https://github.com/marak/Faker.js/) - generate massive amounts of realistic fake data in Node.js and the browser. https://rawgit.com/Marak/faker.js/master/examples/browser/index.html
 - [feature.js](https://github.com/viljamis/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
 - [final-form](https://github.com/erikras/final-form) - 🏁 Framework agnostic, high performance, subscription-based form state management.
 - [find-imports](https://github.com/cheton/find-imports) - Find all imported modules in JavaScript files.
