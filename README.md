@@ -415,6 +415,8 @@ A curated list of awesome frontend development resources
 - [react-toggled](https://github.com/kentcdodds/react-toggled) - Component to build simple, flexible, and accessible toggle components. https://codesandbox.io/s/m38674w9vy
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
 - [react-three-fiber](https://github.com/drcmda/react-three-fiber) - 👌React-fiber renderer for THREE.js.
+- [react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀! https://fkhadra.github.io/react-toastify
+- [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - 🍞 A toast notification system for react. https://jossmac.github.io/react-toast-notifications/
 - [react-use](https://github.com/streamich/react-use) - React Hooks — future of React 👍 react-use. http://streamich.github.io/react-use
 - [react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js.
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
