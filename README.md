@@ -3,13 +3,13 @@ A curated list of awesome frontend development resources
 
 ## Trend Micro
 
-### Styles
+### CSS Styles
 - [trendmicro-ui](https://github.com/trendmicro-frontend/trendmicro-ui) - CSS styles for creating a user interface according to Trend Micro UI style guides.
 
 ### Linter
 - [eslint-config-trendmicro](https://github.com/trendmicro-frontend/eslint-config-trendmicro) - This package provides .eslintrc as an extensible shared config.
 
-### Generator
+### Component Generator
 - [react-component-template](https://github.com/trendmicro-frontend/react-component-template) - React component template.
 
 ### React Components
@@ -414,7 +414,7 @@ A curated list of awesome frontend development resources
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
 - [react-toggled](https://github.com/kentcdodds/react-toggled) - Component to build simple, flexible, and accessible toggle components. https://codesandbox.io/s/m38674w9vy
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
-- [react-three-fiber](https://github.com/drcmda/react-three-fiber) - 👌React-fiber renderer for THREE.js.
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber) - ☘️ React renderer for Threejs (web and react-native) https://spectrum.chat/react-three-fiber
 - [react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀! https://fkhadra.github.io/react-toastify
 - [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - 🍞 A toast notification system for react. https://jossmac.github.io/react-toast-notifications/
 - [react-use](https://github.com/streamich/react-use) - React Hooks — future of React 👍 react-use. http://streamich.github.io/react-use
@@ -433,19 +433,6 @@ A curated list of awesome frontend development resources
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer) - Standalone version of the AutoSizer component from react-virtualized.
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
-
-### React Component (https://github.com/react-component)
-- [calendar](https://github.com/react-component/calendar) - React Calendar.
-- [color-picker](https://github.com/react-component/color-picker) - React ColorPicker.
-- [pager](https://github.com/react-component/pager) - React Pager.
-- [progress](https://github.com/react-component/progress) - React Progress Bar.
-- [rate](https://github.com/react-component/rate) - React Rate.
-- [select](https://github.com/react-component/select) - React Select.
-- [slider](https://github.com/react-component/slider) - React Slider.
-- [table](https://github.com/react-component/table) - React Table.
-- [tabs](https://github.com/react-component/tabs) - React Tabs.
-- [tree](https://github.com/react-component/tree) - React Tree.
-- [tooltip](https://github.com/react-component/tooltip) - React Tooltip.
 
 ## React Native
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos.
