@@ -547,6 +547,8 @@ A curated list of awesome frontend development resources
 - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server. https://jsonplaceholder.typicode.com/
 - [lodash](https://github.com/lodash/lodash/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [lowdb](https://github.com/typicode/lowdb) - ⚡️ lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser).
+- [memoize-one](https://github.com/alexreardon/memoize-one) - A memoization library which only remembers the latest invocation.
+- [moize](https://github.com/planttheidea/moize) - The consistently-fast, complete memoization solution for JS. https://planttheidea.github.io/moize/
 - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
 - [moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency.
 - [multiline-template](https://github.com/jayphelps/multiline-template) - Multiline tagged templates using a pipe |, followed by a space, to signal line start, no more crazy indent hacks.
