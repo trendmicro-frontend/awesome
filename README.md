@@ -476,6 +476,7 @@ A curated list of awesome frontend development resources
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library. http://nightmarejs.org
 - [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
 - [nyc](https://github.com/bcoe/nyc) - A code coverage tool that works well with subprocesses.
+- [redux-saga-test-plan](https://github.com/jfairbank/redux-saga-test-plan) - Test Redux Saga with an easy plan. http://redux-saga-test-plan.jeremyfairbank.com/
 
 ## Text Editor
 - [ckeditor-dev](https://github.com/ckeditor/ckeditor-dev) - The development repository of CKEditor 4. https://ckeditor.com/ckeditor-4/
