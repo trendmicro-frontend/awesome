@@ -274,6 +274,9 @@ A curated list of awesome frontend development resources
 ## Mail
 - [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
 
+## Messaging Applications
+- [amqp.node](https://github.com/squaremo/amqp.node) - AMQP 0-9-1 library and client for Node.js. https://squaremo.github.io/amqp.node/
+
 ## Notifications
 - [HTML5-Desktop-Notifications](https://github.com/ttsvetko/HTML5-Desktop-Notifications) - Desktop notifications plugin for Chrome, Safari, Firefox and IE9.
 - [notify.js](https://github.com/alexgibson/notify.js) - A handy wrapper for the Web Notifications API.
