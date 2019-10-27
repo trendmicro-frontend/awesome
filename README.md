@@ -74,6 +74,7 @@ A curated list of awesome frontend development resources
 
 ## Automation
 - [chromeless](https://github.com/graphcool/chromeless) - 🖥 Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow. https://probot.github.io
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API.
 - [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
 - [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.
