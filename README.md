@@ -432,7 +432,12 @@ A curated list of awesome frontend development resources
 - [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
 
-#### React - Virtualization
+## React Hooks
+- [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks.
+- [react-hooks-visible](https://github.com/kmkzt/react-hooks-visible) - React Hooks library for element visibility. Uses the intersection observer API.
+- [usePosition](https://github.com/tranbathanhtung/usePosition) - React hook for get position of element.
+
+## React Virtualization
 - [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, scrolling to index, and more!
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer) - Standalone version of the AutoSizer component from react-virtualized.
