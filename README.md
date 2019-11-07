@@ -193,6 +193,14 @@ A curated list of awesome frontend development resources
 - [offset](https://www.npmjs.com/package/offset) - Get the xy offset of an element.
 - [synthetic-dom-events](https://github.com/defunctzombie/synthetic-dom-events) - Create DOM events for builtin event types.
 
+## Feature Control - LaunchDarkly
+- [featureflags](https://github.com/launchdarkly/featureflags) - The guide to decoupling feature rollout from code deployment for feature flag-driven development. Feature flags give a software organization the power to reduce risk, iterate quicker, and get more control.
+- [js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript.
+- [js-sdk-common](https://github.com/launchdarkly/js-sdk-common) - Code shared between all LaunchDarkly client-side JS-based SDKs.
+- [node-server-sdk](https://github.com/launchdarkly/node-server-sdk) - LaunchDarkly Server-side SDK for Node.js.
+- [node-client-sdk](https://github.com/launchdarkly/node-client-sdk) - LaunchDarkly Client-side SDK for Node.js.
+- [react-client-sdk](https://github.com/launchdarkly/react-client-sdk) - LaunchDarkly Client-side SDK for React.js.
+
 ## Frontend Performance
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮The only Front-End Performance Checklist that runs faster than the others.
 
