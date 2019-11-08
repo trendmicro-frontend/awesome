@@ -287,6 +287,7 @@ A curated list of awesome frontend development resources
 - [amqp.node](https://github.com/squaremo/amqp.node) - AMQP 0-9-1 library and client for Node.js. https://squaremo.github.io/amqp.node/
 
 ## Micro Frontend
+- [oc](https://github.com/opencomponents/oc) - OpenComponents, serverless in the front-end world for painless micro-frontends delivery. https://opencomponents.github.io/
 - [single-spa](https://github.com/CanopyTax/single-spa) - Microfrontends made easy. https://single-spa.js.org/
 - [tailor](https://github.com/zalando/tailor) - A streaming layout service for front-end microservices. http://www.mosaic9.org
 
