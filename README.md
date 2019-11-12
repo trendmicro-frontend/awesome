@@ -449,6 +449,7 @@ A curated list of awesome frontend development resources
 
 ## React Hooks
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks.
+- [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints.
 - [react-hooks-visible](https://github.com/kmkzt/react-hooks-visible) - React Hooks library for element visibility. Uses the intersection observer API.
 - [usePosition](https://github.com/tranbathanhtung/usePosition) - React hook for get position of element.
 
