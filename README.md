@@ -240,6 +240,10 @@ A curated list of awesome frontend development resources
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
 - [zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense. http://desmonding.me/zooming/
 
+## Inversion of Control
+- [awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS.
+- [awilix-express](https://github.com/talyssonoc/awilix-express) - Awilix helpers/middleware for Express.
+
 ## IoT
 - [cylon](https://github.com/hybridgroup/cylon/) - JavaScript framework for robotics, drones, and the Internet of Things (IoT).
 - [Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter.
