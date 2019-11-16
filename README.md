@@ -481,6 +481,9 @@ A curated list of awesome frontend development resources
 ## Regex
 - [learn-regex](https://github.com/zeeshanu/learn-regex) - Learn regex the easy way.
 
+## Security
+- [csurf](https://github.com/expressjs/csurf) - CSRF token middleware.
+
 ## Serverless
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 
