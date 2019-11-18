@@ -487,6 +487,7 @@ A curated list of awesome frontend development resources
 
 ## Serverless
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+- [examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more. https://www.serverless.com/examples/
 
 ## State Machine
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web. https://xstate.js.org/docs
