@@ -415,6 +415,7 @@ A curated list of awesome frontend development resources
 - [react-move](https://github.com/react-tools/react-move) - React Move 🌀 Beautiful, data-driven animations for React. https://react-move.js.org
 - [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [react-overflow-indicator](https://github.com/exogen/react-overflow-indicator) - Detect overflow and render shadows, fades, arrows, etc.
 - [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images. http://projects.wojtekmaj.pl/react-pdf
 - [react-pdf](https://github.com/diegomura/react-pdf) - Create PDF files using React.
 - [react-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached.
@@ -486,6 +487,10 @@ A curated list of awesome frontend development resources
 
 ## Serverless
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+
+## State Machine
+- [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web. https://xstate.js.org/docs
+- [xstate-examples](https://github.com/coodoo/xstate-examples) - A series of examples showing how to model application state with statechart using xstate. https://stateskit.com
 
 ## Static Site Generator
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
