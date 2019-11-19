@@ -292,6 +292,7 @@ A curated list of awesome frontend development resources
 
 ## Micro Frontend
 - [oc](https://github.com/opencomponents/oc) - OpenComponents, serverless in the front-end world for painless micro-frontends delivery. https://opencomponents.github.io/
+- [qiankun](https://github.com/umijs/qiankun) - 📦🚀Blazing fast, simple and completed solution for micro frontends.
 - [simple-single-spa-webpack-example](https://github.com/joeldenning/simple-single-spa-webpack-example) - A simple example of how to use webpack with single-spa.
 - [single-spa](https://github.com/CanopyTax/single-spa) - Microfrontends made easy. https://single-spa.js.org/
 - [single-spa-examples](https://github.com/CanopyTax/single-spa-examples] - Examples of single-spa applications. https://single-spa.surge.sh
