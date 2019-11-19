@@ -500,7 +500,8 @@ A curated list of awesome frontend development resources
 - [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter.
 - [gatsby-starter-documentation](https://github.com/gatsbyjs/gatsby-starter-documentation) - Starter for building documentation site with GatsbyJS.
 
-## Store
+## Storage
+- [keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
 - [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases • Used across the web • See below for v2.0 news!
 
 ## Talks
