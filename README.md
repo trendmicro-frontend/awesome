@@ -452,6 +452,7 @@ A curated list of awesome frontend development resources
 - [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - 💌 styled-components for emails.
 - [svgr](https://github.com/smooth-code/svgr) - Transform SVG into React components 🦁.
 - [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
+- [window-table](https://github.com/pupudu/window-table) - Windowing Table for React based on React Window. https://window-table.netlify.com/
 - [why-did-you-update](https://github.com/garbles/why-did-you-update) - 💥 Puts your console on blast when React is making unnecessary updates.
 
 ## React Hooks
