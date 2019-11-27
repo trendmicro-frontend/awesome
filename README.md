@@ -298,6 +298,9 @@ A curated list of awesome frontend development resources
 - [single-spa-examples](https://github.com/CanopyTax/single-spa-examples] - Examples of single-spa applications. https://single-spa.surge.sh
 - [tailor](https://github.com/zalando/tailor) - A streaming layout service for front-end microservices. http://www.mosaic9.org
 
+## Micro-generator Framework
+- [plop](https://github.com/plopjs/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity.
+
 ## Notifications
 - [HTML5-Desktop-Notifications](https://github.com/ttsvetko/HTML5-Desktop-Notifications) - Desktop notifications plugin for Chrome, Safari, Firefox and IE9.
 - [notify.js](https://github.com/alexgibson/notify.js) - A handy wrapper for the Web Notifications API.
