@@ -638,6 +638,20 @@ A curated list of awesome frontend development resources
 ### Verdaccio Ecosystem
 - [docker-verdaccio-s3](https://github.com/asynchrony/docker-verdaccio-s3) - Private NPM container that can backup to s3.
 
+### Docker Examples
+- [docker-examples](https://github.com/verdaccio/docker-examples) - 🐳 ⛴A collection of Docker and Kubernetes examples for verdaccio. https://verdaccio.org/docs/en/docker.html
+
+### Docker Custom Builds
+- [docker-verdaccio-gitlab](https://github.com/snics/docker-verdaccio-gitlab) - Docker Container for verdaccio with gitlab authentication.
+- [docker-verdaccio](https://github.com/deployable/docker-verdaccio) - Verdaccio in Docker.
+- [docker-verdaccio-s3](https://github.com/asynchrony/docker-verdaccio-s3) - Private NPM container that can backup to s3.
+- [docker-verdaccio-ldap](https://github.com/snadn/docker-verdaccio-ldap) - docker-verdaccio-ldap.
+- [verdaccio-compose-local-bridge](https://github.com/shingtoli/verdaccio-compose-local-bridge) - Verdaccio run with Docker-Compose using local storage and on bridge network.
+- [docker-verdaccio](https://github.com/Global-Solutions/docker-verdaccio) - dockerized verdaccio, is fork of sinopia.
+- [verdaccio-docker](https://github.com/idahobean/verdaccio-docker) - alpine based verdaccio(https://github.com/verdaccio/verdaccio) docker file.
+- [verdaccio-server](https://github.com/andru255/verdaccio-server) - A private/local npm registry server.
+- [coldrye-debian-verdaccio]() - docker image providing verdaccio from coldrye-debian-nodejs.
+
 ## Video
 - [jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript.
 - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org).
