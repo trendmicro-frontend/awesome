@@ -512,6 +512,9 @@ A curated list of awesome frontend development resources
 ## Talks
 - [wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples. http://bit.ly/wtfjavascript
 
+## Terraform
+- [cf-to-tf](https://github.com/humanmade/cf-to-tf) - CLI tool for generating Terraform configuration and state for existing CloudFormation resources.
+
 ## Testing
 - [BackstopJS](https://github.com/garris/BackstopJS) - Automates CSS regression testing of your responsive web UI by comparing DOM screenshots at various viewport sizes.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
