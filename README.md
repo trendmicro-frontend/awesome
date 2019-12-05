@@ -633,6 +633,9 @@ A curated list of awesome frontend development resources
 
 ## Verdaccio
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry. https://www.verdaccio.org/
+- [verdaccio/monorepo](https://github.com/verdaccio/monorepo) - 🏰Monorepo to keep all the packages for Verdaccio ecosystem
+
+### Verdaccio Ecosystem
 - [docker-verdaccio-s3](https://github.com/asynchrony/docker-verdaccio-s3) - Private NPM container that can backup to s3.
 
 ## Video
