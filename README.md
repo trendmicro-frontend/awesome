@@ -625,17 +625,21 @@ A curated list of awesome frontend development resources
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 
-## Virtualization
-- [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
-- [virtualized-list](https://github.com/clauderic/virtualized-list) - A tiny, Vanilla JS, dependency free, virtualization library.
-
 ## Validation
 - [isemail](https://github.com/hapijs/isemail) - Validate an email address according to RFCs 5321, 5322, and others.
+
+## Verdaccio
+- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry. https://www.verdaccio.org/
+- [docker-verdaccio-s3](https://github.com/asynchrony/docker-verdaccio-s3) - Private NPM container that can backup to s3.
 
 ## Video
 - [jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript.
 - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org).
 - [node-rtsp-stream](https://github.com/kyriesent/node-rtsp-stream) - Stream any RTSP stream and output to websocket for consumption by [jsmpeg](https://github.com/phoboslab/jsmpeg).
+
+## Virtualization
+- [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
+- [virtualized-list](https://github.com/clauderic/virtualized-list) - A tiny, Vanilla JS, dependency free, virtualization library.
 
 ## Virtual Reality
 - [aframe](https://github.com/aframevr/aframe) - Building Blocks for the VR Web.
