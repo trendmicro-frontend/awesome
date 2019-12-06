@@ -514,6 +514,9 @@ A curated list of awesome frontend development resources
 
 ## Terraform
 - [cf-to-tf](https://github.com/humanmade/cf-to-tf) - CLI tool for generating Terraform configuration and state for existing CloudFormation resources.
+- [terraform-aws-cloudfront-cdn](https://github.com/cloudposse/terraform-aws-cloudfront-cdn) - Terraform Module that implements a CloudFront Distribution (CDN) for a custom origin.
+- [terraform-aws-cloudfront-s3-cdn](https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn) - Terraform module to easily provision CloudFront CDN backed by an S3 origin.
+- [terraform-aws-s3-website](https://github.com/cloudposse/terraform-aws-s3-website) - Terraform Module for Creating S3 backed Websites and Route53 DNS.
 
 ## Testing
 - [BackstopJS](https://github.com/garris/BackstopJS) - Automates CSS regression testing of your responsive web UI by comparing DOM screenshots at various viewport sizes.
