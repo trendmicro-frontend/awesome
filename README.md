@@ -452,6 +452,7 @@ A curated list of awesome frontend development resources
 - [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - 🍞 A toast notification system for react. https://jossmac.github.io/react-toast-notifications/
 - [react-use](https://github.com/streamich/react-use) - React Hooks — future of React 👍 react-use. http://streamich.github.io/react-use
 - [react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js.
+- [react-video-renderer](https://github.com/zzarcon/react-video-renderer) - Build custom video players effortless. https://zzarcon.github.io/react-video-renderer/
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
