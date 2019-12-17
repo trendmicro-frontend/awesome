@@ -373,6 +373,7 @@ A curated list of awesome frontend development resources
 - [react-base-table](https://github.com/Autodesk/react-base-table) - A react table component to display large datasets with high performance and flexibility. https://autodesk.github.io/react-base-table/
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
+- [react-circle](https://github.com/zzarcon/react-circle) - Renders a svg circle + progress, it just works 💘. https://zzarcon.github.io/react-circle
 - [react-click-outside](https://github.com/tj/react-click-outside) - ClickOutside component for React.
 - [react-clock](https://github.com/wojtekmaj/react-clock) - An analog clock for your React app. http://projects.wojtekmaj.pl/react-clock
 - [react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts.
@@ -430,6 +431,7 @@ A curated list of awesome frontend development resources
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-repeatable](https://github.com/cheton/react-repeatable) - A press and hold wrapper component that can trigger hold action multiple times while holding down.
 - [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
+- [react-resize-observer-hook](https://github.com/zzarcon/react-resize-observer-hook) - ResizeObserver + React hooks. https://zzarcon.github.io/react-resize-observer-hook/
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
 - [react-selection](https://github.com/rwu823/react-selection) - Like the normal OS selection.
