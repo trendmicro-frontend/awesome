@@ -434,6 +434,7 @@ A curated list of awesome frontend development resources
 - [react-resize-observer-hook](https://github.com/zzarcon/react-resize-observer-hook) - ResizeObserver + React hooks. https://zzarcon.github.io/react-resize-observer-hook/
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [react-router](https://github.com/reactjs/react-router) - A complete routing library for React.
+- [react-scroll-shadow](https://github.com/zzarcon/react-scroll-shadow) - Pure CSS shadow to indicate more content in scrollable area. https://zzarcon.github.io/react-scroll-shadow/
 - [react-selection](https://github.com/rwu823/react-selection) - Like the normal OS selection.
 - [react-sidebar](https://github.com/balloob/react-sidebar) - A sidebar component for React.
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - 💬 Easy way to create conversation chats. https://lucasbassetti.com.br/react-simple-chatbot/
