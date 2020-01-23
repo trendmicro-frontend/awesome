@@ -500,6 +500,7 @@ A curated list of awesome frontend development resources
 - [examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more. https://www.serverless.com/examples/
 
 ## State Machine
+- [state-machine-cat](https://github.com/sverweij/state-machine-cat) - write beautiful state charts 🙀. https://state-machine-cat.js.org
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web. https://xstate.js.org/docs
 - [xstate-examples](https://github.com/coodoo/xstate-examples) - A series of examples showing how to model application state with statechart using xstate. https://stateskit.com
 
