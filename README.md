@@ -335,6 +335,8 @@ A curated list of awesome frontend development resources
 - [webvr-polyfill](https://github.com/borismus/webvr-polyfill) - Use WebVR today, without requiring a special browser build.
 
 ## Presentation
+- [code-surfer](https://github.com/pomber/code-surfer) - Rad code slides <🏄/>. https://codesurfer.pomb.us/
+- [mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks. https://mdx-deck.jxnblk.com
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
 - [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
 - [spectacle-boilerplate](https://github.com/FormidableLabs/spectacle-boilerplate) - Boilerplate project for getting started with Spectacle Core.
