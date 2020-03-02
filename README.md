@@ -335,6 +335,7 @@ A curated list of awesome frontend development resources
 - [webvr-polyfill](https://github.com/borismus/webvr-polyfill) - Use WebVR today, without requiring a special browser build.
 
 ## Presentation
+- [cleaver](https://github.com/jdan/cleaver) - 30-second slideshows for hackers. http://jdan.github.io/cleaver
 - [code-surfer](https://github.com/pomber/code-surfer) - Rad code slides <🏄/>. https://codesurfer.pomb.us/
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks. https://mdx-deck.jxnblk.com
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
