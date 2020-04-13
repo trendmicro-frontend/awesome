@@ -157,6 +157,7 @@ A curated list of awesome frontend development resources
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag. http://www.chartjs.org/
 - [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
 - [d3-node](https://github.com/d3-node/d3-node) - Server-side D3 for static chart/map generation.
+- [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3. http://recharts.org
 - [vx](https://github.com/hshoff/vx) - react + d3 = vx | visualization components. https://vx-demo.now.sh/
 
 ## Database
