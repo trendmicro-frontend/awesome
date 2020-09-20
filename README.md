@@ -122,6 +122,7 @@ A curated list of awesome frontend development resources
 - [commander.js](https://github.com/tj/commander.js/) - Node.js command-line interfaces made easy.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [node-progress](https://github.com/tj/node-progress) - Flexible ascii progress bar for nodejs.
+- [playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js.
 - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images.
 - [xterm.js](https://github.com/sourcelair/xterm.js) - Full xterm terminal, in your browser. http://xtermjs.org/
