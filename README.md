@@ -433,6 +433,7 @@ A curated list of awesome frontend development resources
 - [react-placeholder](https://github.com/buildo/react-placeholder) - A React component to easily replicate your page with nice placeholders while the content is loading.
 - [react-pledge](https://github.com/petergombos/react-pledge) - Declarative way to track promise lifecycle states using "render props" 🕶.
 - [react-popover](https://github.com/FezVrasta/react-popper) - React wrapper around Popper.js (official). https://fezvrasta.github.io/react-popper/
+- [react-range](https://github.com/tajo/react-range) - 🎚️Range input with a slider. Accessible. Bring your own styles and markup. https://react-range.netlify.app/
 - [react-redux](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
 - [react-repeatable](https://github.com/cheton/react-repeatable) - A press and hold wrapper component that can trigger hold action multiple times while holding down.
 - [react-resizable](https://github.com/STRML/react-resizable) - A simple React component that is resizable with a handle.
