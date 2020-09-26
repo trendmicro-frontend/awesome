@@ -550,6 +550,7 @@ A curated list of awesome frontend development resources
 - [pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies
 
 ## Tools
+- [arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs.
 - [autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js.
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users.
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention.
