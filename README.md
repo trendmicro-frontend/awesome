@@ -595,6 +595,7 @@ A curated list of awesome frontend development resources
 - [debug](https://github.com/visionmedia/debug) - Tiny node.js & browser debugging utility for your libraries and applications.
 - [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - [detect-browser](https://github.com/DamonOehlman/detect-browser) - Unpack a browser type and version from the useragent string.
+- [dragmove](https://github.com/knadh/dragmove.js) - A super tiny Javascript library to make DOM elements draggable and movable. ~500 bytes and no dependencies.
 - [dumper.js](https://github.com/zeeshanu/dumper.js) - A better and pretty variable inspector for your Node.js applications.
 - [element-ready](https://github.com/sindresorhus/element-ready) - Detect when an element is ready in the DOM.
 - [emergence.js](https://github.com/xtianmiller/emergence.js) - Detect element visibility in the browser.
