@@ -320,6 +320,7 @@ A curated list of awesome frontend development resources
 
 ## P2P
 - [p2p-graph](https://github.com/feross/p2p-graph) - Real-time P2P network visualization with D3.
+- [peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [webtorrent](https://github.com/feross/webtorrent) - ⚡ Streaming torrent client for the web.
 - [discovery-channel](https://github.com/maxogden/discovery-channel) - Search for a key across multiple discovery networks and find peers who answer.
 - [discovery-server](https://github.com/mafintosh/discovery-server) - A tcp/utp server that auto announces itself using discovery-channel.
