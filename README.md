@@ -466,6 +466,7 @@ A curated list of awesome frontend development resources
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
 - [react-xp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
+- [react-youtube](https://github.com/tjallingt/react-youtube) - react.js powered YouTube player component.
 - [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - 💌 styled-components for emails.
 - [svgr](https://github.com/smooth-code/svgr) - Transform SVG into React components 🦁.
 - [uncontrollable](https://github.com/jquense/uncontrollable) - Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled.
@@ -677,6 +678,7 @@ A curated list of awesome frontend development resources
 - [jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript.
 - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org).
 - [node-rtsp-stream](https://github.com/kyriesent/node-rtsp-stream) - Stream any RTSP stream and output to websocket for consumption by [jsmpeg](https://github.com/phoboslab/jsmpeg).
+- [youtube-player](https://github.com/gajus/youtube-player) - YouTube iframe API abstraction.
 
 ## Virtualization
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
