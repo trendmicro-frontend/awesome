@@ -635,6 +635,7 @@ A curated list of awesome frontend development resources
 - [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input. https://www.papaparse.com/demo
 - [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Express-style path to regexp.
+- [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - A set of minimal functions for drawing perfect arrows between points and shapes.
 - [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
 - [popper.js](https://github.com/FezVrasta/popper.js) - A kickass library to manage your poppers. https://popper.js.org
 - [PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript.
