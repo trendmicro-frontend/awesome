@@ -477,6 +477,7 @@ A curated list of awesome frontend development resources
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks.
 - [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints.
 - [react-hooks-visible](https://github.com/kmkzt/react-hooks-visible) - React Hooks library for element visibility. Uses the intersection observer API.
+- [react-use-gesture](https://github.com/pmndrs/react-use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React.
 - [react-use-measure](https://github.com/pmndrs/react-use-measure) - 🙌 Utility to measure view bounds.
 - [use-asset](https://github.com/pmndrs/use-asset) - 📦 A data fetching strategy for React Suspense.
 - [usePosition](https://github.com/tranbathanhtung/usePosition) - React hook for get position of element.
