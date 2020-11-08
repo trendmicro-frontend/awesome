@@ -464,6 +464,7 @@ A curated list of awesome frontend development resources
 - [react-video-renderer](https://github.com/zzarcon/react-video-renderer) - Build custom video players effortless. https://zzarcon.github.io/react-video-renderer/
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
+- [react-waypoint](https://github.com/civiccc/react-waypoint) - A React component to execute a function whenever you scroll to an element.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
 - [react-xp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [react-youtube](https://github.com/tjallingt/react-youtube) - react.js powered YouTube player component.
