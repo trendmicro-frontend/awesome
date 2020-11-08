@@ -464,7 +464,6 @@ A curated list of awesome frontend development resources
 - [react-video-renderer](https://github.com/zzarcon/react-video-renderer) - Build custom video players effortless. https://zzarcon.github.io/react-video-renderer/
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor) - Sensor component for React that notifies you when it goes in or out of the window viewport.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React.
-- [react-waypoint](https://github.com/civiccc/react-waypoint) - A React component to execute a function whenever you scroll to an element.
 - [react-webcam](https://github.com/cezary/react-webcam) - Webcam component.
 - [react-xp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [react-youtube](https://github.com/tjallingt/react-youtube) - react.js powered YouTube player component.
@@ -653,6 +652,7 @@ A curated list of awesome frontend development resources
 - [text-width](https://github.com/kapetan/text-width) - Measure the text width in browsers.
 - [threads.js](https://github.com/andywer/threads.js) - Easy to use, yet powerful multi-threading library for node.js and the browser.
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
+- [waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element. imakewebthings.com/waypoints/
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 
 ## Validation
