@@ -591,6 +591,7 @@ A curated list of awesome frontend development resources
 - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 - [animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web. http://animateplus.com/examples/getting-started
 - [array-lru](https://github.com/mafintosh/array-lru) - A really fast LRU cache for array items (numeric keys).
+- [binary-message-stream](https://github.com/mafintosh/binary-message-stream) - Duplex stream that allows you to send messages, including binary messages.
 - [chained-function](https://github.com/cheton/chained-function) - Chained function calls.
 - [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
