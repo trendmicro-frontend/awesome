@@ -630,6 +630,7 @@ A curated list of awesome frontend development resources
 - [moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency.
 - [multiline-template](https://github.com/jayphelps/multiline-template) - Multiline tagged templates using a pipe |, followed by a space, to signal line start, no more crazy indent hacks.
 - [multimatch](https://github.com/sindresorhus/multimatch) - Extends minimatch.match() with support for multiple patterns.
+- [node-cbor](https://github.com/hildjj/node-cbor) - Encode and decode CBOR documents, with both easy mode, streaming mode, and SAX-style evented mode.
 - [node-html-to-text](https://github.com/werk85/node-html-to-text) - Advanced html to text converter.
 - [node-lur-cache](https://github.com/isaacs/node-lru-cache) - A cache object that deletes the least-recently-used items.
 - [node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
@@ -647,6 +648,7 @@ A curated list of awesome frontend development resources
 - [scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) - Element.scrollIntoViewIfNeeded ponyfill that can animate the scrolling.
 - [shine.js](http://bigspaceship.github.io/shine.js/) - A library for pretty shadows.
 - [stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
+- [streamx](https://github.com/streamxorg/streamx) - An iteration of the Node.js core streams with a series of improvements.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in Javascript.
 - [table](https://github.com/gajus/table) - Formats data into a string table.
 - [text-spinners](https://github.com/tawian/text-spinners) - Pure text, CSS only, font independent, inline loading indicators.
