@@ -459,6 +459,7 @@ A curated list of awesome frontend development resources
 - [react-three-fiber](https://github.com/react-spring/react-three-fiber) - ☘️ React renderer for Threejs (web and react-native) https://spectrum.chat/react-three-fiber
 - [react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀! https://fkhadra.github.io/react-toastify
 - [react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - 🍞 A toast notification system for react. https://jossmac.github.io/react-toast-notifications/
+- [react-to-print](https://github.com/gregnb/react-to-print) - Print React components in the browser. Supports Chrome, Safari, Firefox and EDGE.
 - [react-use](https://github.com/streamich/react-use) - React Hooks — future of React 👍 react-use. http://streamich.github.io/react-use
 - [react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js.
 - [react-video-renderer](https://github.com/zzarcon/react-video-renderer) - Build custom video players effortless. https://zzarcon.github.io/react-video-renderer/
