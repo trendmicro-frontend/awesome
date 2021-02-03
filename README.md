@@ -567,6 +567,7 @@ A curated list of awesome frontend development resources
 - [gnomon](https://github.com/paypal/gnomon) - Utility to annotate console logging statements with timestamps and find slow processes.
 - [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
+- [imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly.
 - [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - A visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
