@@ -455,6 +455,7 @@ A curated list of awesome frontend development resources
 - [react-spring-examples](https://github.com/react-spring/react-spring-examples) - React spring examples.
 - [react-sticky](https://github.com/captivationsoftware/react-sticky) - <Sticky /> component for awesome React apps.
 - [react-tappable](https://github.com/JedWatson/react-tappable) - Tappable component for React.
+- [react-timer-hook](https://github.com/amrlabib/react-timer-hook) - React timer hook.
 - [react-toggled](https://github.com/kentcdodds/react-toggled) - Component to build simple, flexible, and accessible toggle components. https://codesandbox.io/s/m38674w9vy
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules.
 - [react-three-fiber](https://github.com/react-spring/react-three-fiber) - ☘️ React renderer for Threejs (web and react-native) https://spectrum.chat/react-three-fiber
