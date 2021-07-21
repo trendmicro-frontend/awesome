@@ -197,6 +197,9 @@ A curated list of awesome frontend development resources
 - [offset](https://www.npmjs.com/package/offset) - Get the xy offset of an element.
 - [synthetic-dom-events](https://github.com/defunctzombie/synthetic-dom-events) - Create DOM events for builtin event types.
 
+## Electron
+- [electron-tabs](https://github.com/brrd/electron-tabs) - Simple tabs for Electron applications.
+
 ## Feature Control - LaunchDarkly
 - [featureflags](https://github.com/launchdarkly/featureflags) - The guide to decoupling feature rollout from code deployment for feature flag-driven development. Feature flags give a software organization the power to reduce risk, iterate quicker, and get more control.
 - [js-client-sdk](https://github.com/launchdarkly/js-client-sdk) - LaunchDarkly Client-side SDK for Browser JavaScript.
@@ -661,6 +664,7 @@ A curated list of awesome frontend development resources
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element. imakewebthings.com/waypoints/
 - [xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
+- [ytplayer](https://github.com/feross/yt-player) - Simple, robust, blazing-fast YouTube Player API.
 
 ## Validation
 - [isemail](https://github.com/hapijs/isemail) - Validate an email address according to RFCs 5321, 5322, and others.
