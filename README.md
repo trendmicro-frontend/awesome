@@ -409,6 +409,7 @@ A curated list of awesome frontend development resources
 - [react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js.
 - [react-favicon](https://github.com/oflisback/react-favicon) - Set or animate your React app's favicon.
 - [react-final-form](https://github.com/erikras/react-final-form) - 🏁 High performance subscription-based form state management for React.
+- [react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.
 - [react-fns](https://github.com/jaredpalmer/react-fns) - Modern React components, render-props, hoc's, and utility functions.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-grid-system](https://github.com/JSxMachina/react-grid-system) - A no CSS Bootstrap-like responsive grid system for React.
