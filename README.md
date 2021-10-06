@@ -368,6 +368,7 @@ A curated list of awesome frontend development resources
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [formsy-react](https://github.com/christianalfoni/formsy-react) - A form input builder and validator for React JS.
+- [drei](https://github.com/pmndrs/drei) - 🌭 useful helpers for react-three-fiber. https://drei.pmnd.rs/
 - [qrcode.react](https://github.com/zpao/qrcode.react) - A <QRCode/> component for use with React.
 - [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive React grid system built with styled-components.
 - [immer](https://github.com/mweststrate/immer) - Create the next immutable state by mutating the current one.
