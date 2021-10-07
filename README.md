@@ -516,6 +516,7 @@ A curated list of awesome frontend development resources
 
 ## Security
 - [csurf](https://github.com/expressjs/csurf) - CSRF token middleware.
+- [helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers.
 
 ## Serverless
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
