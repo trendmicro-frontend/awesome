@@ -623,6 +623,7 @@ A curated list of awesome frontend development resources
 - [feature.js](https://github.com/viljamis/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
 - [final-form](https://github.com/erikras/final-form) - 🏁 Framework agnostic, high performance, subscription-based form state management.
 - [find-imports](https://github.com/cheton/find-imports) - Find all imported modules in JavaScript files.
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [fitty](https://github.com/rikschennink/fitty) - Makes text fit perfectly.
 - [flattree](https://github.com/cheton/flattree) - Convert hierarchical tree structure to flat structure.
 - [flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
