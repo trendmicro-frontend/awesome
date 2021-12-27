@@ -600,7 +600,7 @@ A curated list of awesome frontend development resources
 - [virtualjoystick](https://github.com/jeromeetienne/virtualjoystick.js) - A virtual joystick library to emulate a joystick on touch screen in javascript.
 
 ## Utilities
-- [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-codee) - Short JavaScript code snippets for all your development needs. https://www.30secondsofcode.org/
 - [animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web. http://animateplus.com/examples/getting-started
 - [array-lru](https://github.com/mafintosh/array-lru) - A really fast LRU cache for array items (numeric keys).
 - [binary-message-stream](https://github.com/mafintosh/binary-message-stream) - Duplex stream that allows you to send messages, including binary messages.
