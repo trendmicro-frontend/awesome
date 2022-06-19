@@ -564,6 +564,7 @@ A curated list of awesome frontend development resources
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) - Development environment for CKEditor 5; the best browser-based rich text editor. https://ckeditor.com
 - [ckeditor5-engine](https://github.com/ckeditor/ckeditor5-engine) - CKEditor 5 editing engine. https://ckeditor5.github.io
 - [pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest (~1kB) WYSIWYG text editor for web, with no dependencies
+- [tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular. https://www.tiny.cloud
 
 ## Tools
 - [arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs.
