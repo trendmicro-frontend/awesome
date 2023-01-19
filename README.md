@@ -199,6 +199,7 @@ A curated list of awesome frontend development resources
 
 ## Electron
 - [electron-tabs](https://github.com/brrd/electron-tabs) - Simple tabs for Electron applications.
+- [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules.
 
 ## Feature Control - LaunchDarkly
 - [featureflags](https://github.com/launchdarkly/featureflags) - The guide to decoupling feature rollout from code deployment for feature flag-driven development. Feature flags give a software organization the power to reduce risk, iterate quicker, and get more control.
