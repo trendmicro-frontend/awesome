@@ -41,6 +41,9 @@ A curated list of awesome frontend development resources
 
 ---
 
+## AI
+- [CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer. https://replicate.com/sczhou/codeformer
+
 ## Ask Me Anything
 - https://github.com/sindresorhus/ama
 - https://github.com/kentcdodds/ama
