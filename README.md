@@ -42,6 +42,7 @@ A curated list of awesome frontend development resources
 ---
 
 ## AI
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer. https://replicate.com/sczhou/codeformer
 
 ## Ask Me Anything
