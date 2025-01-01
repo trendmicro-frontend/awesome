@@ -221,6 +221,7 @@ A curated list of awesome frontend development resources
 
 ## Game
 - [boardgame](https://github.com/google/boardgame.io) - State management and more for turn based games. http://boardgame.io/
+- [chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
 - [gamepad](https://github.com/w3c/gamepad) - Gamepad specification.
 
 ## Graphics
