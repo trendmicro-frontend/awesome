@@ -638,6 +638,7 @@ A curated list of awesome frontend development resources
 - [fitty](https://github.com/rikschennink/fitty) - Makes text fit perfectly.
 - [flattree](https://github.com/cheton/flattree) - Convert hierarchical tree structure to flat structure.
 - [flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
+- [form-data](https://github.com/form-data/form-data) - A module to create readable `"multipart/form-data"` streams. Can be used to submit forms and file uploads to other web applications.
 - [glob](https://github.com/isaacs/node-glob) - glob functionality for node.js.
 - [globby](https://github.com/sindresorhus/globby) - Extends [glob](https://github.com/isaacs/node-glob) with support for multiple patterns.
 - [hashlru](https://github.com/dominictarr/hashlru) - Simpler, faster LRU cache algorithm.
