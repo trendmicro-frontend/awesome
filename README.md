@@ -78,6 +78,7 @@ A curated list of awesome frontend development resources
 - [@mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
 
 ## Animation
+- [halloween.js](https://github.com/rogulia/halloween.js) - Zero-dependency Halloween screen-corner decorations and ambient page effects for any website.
 - [scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library. http://daybrush.com/scenejs/
 
 ## Authentication
