@@ -297,6 +297,7 @@ A curated list of awesome frontend development resources
 - [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js. https://js.tensorflow.org/
 
 ## Markdown
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - A streaming Markdown renderer for AI chat interfaces with packages for Vue, React, Svelte, and Angular. https://markstream.simonhe.me/
 - [render-markdown-javascript](https://github.com/ryanflorence/render-markdown-javascript) - Renders markdown files to HTML with highlighted code blocks BUT ALSO RENDERS THE JAVASCRIPT ONES.
 
 ## Math
