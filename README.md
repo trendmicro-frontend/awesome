@@ -1,61 +1,17 @@
 # Awesome Frontend Development Resources
 A curated list of awesome frontend development resources
 
-## Trend Micro
-
-### CSS Styles
-- [trendmicro-ui](https://github.com/trendmicro-frontend/trendmicro-ui) - CSS styles for creating a user interface according to Trend Micro UI style guides.
-
-### Linter
-- [eslint-config-trendmicro](https://github.com/trendmicro-frontend/eslint-config-trendmicro) - This package provides .eslintrc as an extensible shared config.
-
-### Component Generator
-- [react-component-template](https://github.com/trendmicro-frontend/react-component-template) - React component template.
-
-### React Components
-- [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - React Anchor component ([demo](https://trendmicro-frontend.github.io/react-anchor/)).
-- [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - React Breadcrumbs component ([demo](https://trendmicro-frontend.github.io/react-breadcrumbs/)).
-- [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - React Buttons component ([demo](https://trendmicro-frontend.github.io/react-buttons/)).
-- [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - React Checkbox component ([demo](https://trendmicro-frontend.github.io/react-checkbox/)).
-- [react-datepicker](https://github.com/trendmicro-frontend/react-datepicker) - React DatePicker component ([demo](https://trendmicro-frontend.github.io/react-datepicker/)).
-- [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - React Dropdown component ([demo](https://trendmicro-frontend.github.io/react-dropdown/)).
-- [react-form-control](https://github.com/trendmicro-frontend/react-form-control) - React Form Control component ([demo](https://trendmicro-frontend.github.io/react-form-control/)).
-- [react-grid-system](https://github.com/trendmicro-frontend/react-grid-system) - React Grid System component ([demo](https://trendmicro-frontend.github.io/react-grid-system/)).
-- [react-iframe](https://github.com/trendmicro-frontend/react-iframe) - React iFrame component ([demo](https://trendmicro-frontend.github.io/react-iframe/)).
-- [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields ([demo](https://trendmicro-frontend.github.io/react-interpolate/)).
-- [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component ([demo](https://trendmicro-frontend.github.io/react-liquid-gauge/)).
-- [react-loader](https://github.com/trendmicro-frontend/react-loader) - React Loader component ([demo](https://trendmicro-frontend.github.io/react-loader/)).
-- [react-modal](https://github.com/trendmicro-frontend/react-modal) - React Modal component ([demo](https://trendmicro-frontend.github.io/react-modal/)).
-- [react-navs](https://github.com/trendmicro-frontend/react-navs) - React Navs component ([demo](https://trendmicro-frontend.github.io/react-navs/)).
-- [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - React Navbar component ([demo](https://trendmicro-frontend.github.io/react-navbar/)).
-- [react-notifications](https://github.com/trendmicro-frontend/react-notifications) - React Notifications component ([demo](https://trendmicro-frontend.github.io/react-notifications/)).
-- [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - React Paginations component ([demo](https://trendmicro-frontend.github.io/react-paginations/)).
-- [react-popover](https://github.com/trendmicro-frontend/react-popover) - React Popover component ([demo](https://trendmicro-frontend.github.io/react-popover/)).
-- [react-portal](https://github.com/trendmicro-frontend/react-portal) - React Portal component ([demo](https://trendmicro-frontend.github.io/react-portal/)).
-- [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - React Radio Button component ([demo](https://trendmicro-frontend.github.io/react-radio-button/)).
-- [reacr-sidenav](https://github.com/trendmicro-frontend/react-sidenav) - React SideNav component ([demo](https://trendmicro-frontend.github.io/react-sidenav/)).
-- [react-table](https://github.com/trendmicro-frontend/react-table) - React Table component ([demo](https://trendmicro-frontend.github.io/react-table/)).
-- [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - React Toggle Switch component ([demo](https://trendmicro-frontend.github.io/react-toggle-switch/)).
-- [react-tooltip](https://github.com/trendmicro-frontend/react-tooltip) - React Tooltip component ([demo](https://trendmicro-frontend.github.io/react-tooltip/)).
-- [react-validation](https://github.com/trendmicro-frontend/react-validation) - React Validation component ([demo](https://trendmicro-frontend.github.io/react-validation/)).
-
----
 
 ## AI
-- [agents](https://github.com/contains-studio/agents) - sharing current agents in use
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer. https://replicate.com/sczhou/codeformer
-- [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
-- [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
-- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-- [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-- [modelcontextprotocol](https://github.com/modelcontextprotocol) - The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you're building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers. https://modelcontextprotocol.io
 - [agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. https://deusdata.github.io/codebase-memory-mcp/
+- [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
+- [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [Graft](https://github.com/trailhq/Graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase. https://graft.nanonets.ai/
+- [modelcontextprotocol](https://github.com/modelcontextprotocol) - The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you're building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.
 - [OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. https://www.openmontage.video/
 - [orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. https://onorca.dev/
 
@@ -754,3 +710,41 @@ A curated list of awesome frontend development resources
 - [worker-loader](https://github.com/webpack-contrib/worker-loader) - Worker loader module for webpack.
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [workerize-loader](https://github.com/developit/workerize-loader) - 🏗️ Automatically move a module into a Web Worker (Webpack loader).
+
+## TrendAI
+
+### CSS Styles
+- [trendmicro-ui](https://github.com/trendmicro-frontend/trendmicro-ui) - CSS styles for creating a user interface according to Trend Micro UI style guides.
+
+### Linter
+- [eslint-config-trendmicro](https://github.com/trendmicro-frontend/eslint-config-trendmicro) - This package provides .eslintrc as an extensible shared config.
+
+### Component Generator
+- [react-component-template](https://github.com/trendmicro-frontend/react-component-template) - React component template.
+
+### React Components
+- [react-anchor](https://github.com/trendmicro-frontend/react-anchor) - React Anchor component ([demo](https://trendmicro-frontend.github.io/react-anchor/)).
+- [react-breadcrumbs](https://github.com/trendmicro-frontend/react-breadcrumbs) - React Breadcrumbs component ([demo](https://trendmicro-frontend.github.io/react-breadcrumbs/)).
+- [react-buttons](https://github.com/trendmicro-frontend/react-buttons) - React Buttons component ([demo](https://trendmicro-frontend.github.io/react-buttons/)).
+- [react-checkbox](https://github.com/trendmicro-frontend/react-checkbox) - React Checkbox component ([demo](https://trendmicro-frontend.github.io/react-checkbox/)).
+- [react-datepicker](https://github.com/trendmicro-frontend/react-datepicker) - React DatePicker component ([demo](https://trendmicro-frontend.github.io/react-datepicker/)).
+- [react-dropdown](https://github.com/trendmicro-frontend/react-dropdown) - React Dropdown component ([demo](https://trendmicro-frontend.github.io/react-dropdown/)).
+- [react-form-control](https://github.com/trendmicro-frontend/react-form-control) - React Form Control component ([demo](https://trendmicro-frontend.github.io/react-form-control/)).
+- [react-grid-system](https://github.com/trendmicro-frontend/react-grid-system) - React Grid System component ([demo](https://trendmicro-frontend.github.io/react-grid-system/)).
+- [react-iframe](https://github.com/trendmicro-frontend/react-iframe) - React iFrame component ([demo](https://trendmicro-frontend.github.io/react-iframe/)).
+- [react-interpolate](https://github.com/trendmicro-frontend/react-interpolate) - A React component that renders elements into a format string containing replacement fields ([demo](https://trendmicro-frontend.github.io/react-interpolate/)).
+- [react-liquid-gauge](https://github.com/trendmicro-frontend/react-liquid-gauge) - React Liquid Gauge component ([demo](https://trendmicro-frontend.github.io/react-liquid-gauge/)).
+- [react-loader](https://github.com/trendmicro-frontend/react-loader) - React Loader component ([demo](https://trendmicro-frontend.github.io/react-loader/)).
+- [react-modal](https://github.com/trendmicro-frontend/react-modal) - React Modal component ([demo](https://trendmicro-frontend.github.io/react-modal/)).
+- [react-navs](https://github.com/trendmicro-frontend/react-navs) - React Navs component ([demo](https://trendmicro-frontend.github.io/react-navs/)).
+- [react-navbar](https://github.com/trendmicro-frontend/react-navbar) - React Navbar component ([demo](https://trendmicro-frontend.github.io/react-navbar/)).
+- [react-notifications](https://github.com/trendmicro-frontend/react-notifications) - React Notifications component ([demo](https://trendmicro-frontend.github.io/react-notifications/)).
+- [react-paginations](https://github.com/trendmicro-frontend/react-paginations) - React Paginations component ([demo](https://trendmicro-frontend.github.io/react-paginations/)).
+- [react-popover](https://github.com/trendmicro-frontend/react-popover) - React Popover component ([demo](https://trendmicro-frontend.github.io/react-popover/)).
+- [react-portal](https://github.com/trendmicro-frontend/react-portal) - React Portal component ([demo](https://trendmicro-frontend.github.io/react-portal/)).
+- [react-radio-button](https://github.com/trendmicro-frontend/react-radio-button) - React Radio Button component ([demo](https://trendmicro-frontend.github.io/react-radio-button/)).
+- [reacr-sidenav](https://github.com/trendmicro-frontend/react-sidenav) - React SideNav component ([demo](https://trendmicro-frontend.github.io/react-sidenav/)).
+- [react-table](https://github.com/trendmicro-frontend/react-table) - React Table component ([demo](https://trendmicro-frontend.github.io/react-table/)).
+- [react-toggle-switch](https://github.com/trendmicro-frontend/react-toggle-switch) - React Toggle Switch component ([demo](https://trendmicro-frontend.github.io/react-toggle-switch/)).
+- [react-tooltip](https://github.com/trendmicro-frontend/react-tooltip) - React Tooltip component ([demo](https://trendmicro-frontend.github.io/react-tooltip/)).
+- [react-validation](https://github.com/trendmicro-frontend/react-validation) - React Validation component ([demo](https://trendmicro-frontend.github.io/react-validation/)).
