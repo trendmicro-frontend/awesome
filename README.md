@@ -215,6 +215,7 @@ A curated list of awesome frontend development resources
 ## Icon Fonts
 - [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons. https://feathericons.com
 - [font-awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit.
+- [SVGicons.com](https://svgicons.com/) - Search and browse open-source SVG icons across multiple icon sets, preview styles, and copy clean SVG code.
 
 ## Image Processing
 - [color-thief](https://github.com/lokesh/color-thief/) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
