@@ -269,7 +269,8 @@ A curated list of awesome frontend development resources
 
 ## Mail
 - [nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
-
+- [TailwindMail](https://tailwindmail.dev) - Build HTML emails with Tailwind CSS easy.
+- 
 ## Messaging Applications
 - [amqp.node](https://github.com/squaremo/amqp.node) - AMQP 0-9-1 library and client for Node.js. https://squaremo.github.io/amqp.node/
 
