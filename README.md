@@ -524,6 +524,7 @@ A curated list of awesome frontend development resources
 - [terraform-aws-s3-website](https://github.com/cloudposse/terraform-aws-s3-website) - Terraform Module for Creating S3 backed Websites and Route53 DNS.
 
 ## Testing
+- [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language browser tests with execution memory and regression detection.
 - [BackstopJS](https://github.com/garris/BackstopJS) - Automates CSS regression testing of your responsive web UI by comparing DOM screenshots at various viewport sizes.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 - [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
