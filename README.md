@@ -241,6 +241,7 @@ A curated list of awesome frontend development resources
 - [agendash](https://github.com/agenda/agendash) - Agenda Dashboard.
 - [agenda-rest](https://github.com/agenda/agenda-rest) - Scheduling as a Service.
 - [bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 
 ## Json Web Token (JWT)
 - [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes.
