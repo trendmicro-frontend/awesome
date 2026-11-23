@@ -493,6 +493,7 @@ A curated list of awesome frontend development resources
 ## Security
 - [csurf](https://github.com/expressjs/csurf) - CSRF token middleware.
 - [helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers.
+- [vibe-security-checklist](https://github.com/zColdWater/vibe-security-checklist) - MIT frontend & deployment security header baselines (Next.js, Vercel, Netlify, Cloudflare, Nginx), zero-dependency local build-bundle secret scanner, and free passive 116-check live URL verifier.
 
 ## Serverless
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
